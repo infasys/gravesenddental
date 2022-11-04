@@ -242,6 +242,6 @@ if __name__ == '__main__':
     app = QtWidgets.QApplication(sys.argv)
     SpashScreen()
     mainWindow = PyShine_THREADS_APP()
-    # mainWindow.showFullScreen()
-    mainWindow.show()
+    mainWindow.showFullScreen()
+    # mainWindow.show()
     sys.exit(app.exec_())
