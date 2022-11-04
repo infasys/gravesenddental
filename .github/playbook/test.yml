@@ -1,0 +1,52 @@
+---
+- hosts: all
+  become: true
+  vars:
+    http_port: 80
+    max_clients: 200
+  tasks:
+  - name: hello rehan world message
+    debug:
+      msg: '{{html_folder}}'
+
+  - name: Make sure pymysql is present
+    become: true 
+    pip:
+      name: PyInstaller
+      state: present
+  - name: Make sure pymysql is present
+    become: true 
+    pip:
+      name: pyqt5
+      state: present
+  - name: install pyqt5
+    apt:
+      name: python3-pyqt5
+      state: present
+      update_cache: yes # means does apt-get update 
+
+  - name: synchronize Directory
+    ansible.posix.synchronize:
+      src: ../../../
+      dest: /var/specs/{{html_folder}}
+      recursive: yes
+      rsync_opts:
+        - "--no-motd"
+        - "--exclude=.git"
+        - "--exclude=.github"
+        - "--exclude=readme.md"
+        - "--exclude=README.md"
+        - "--exclude=.gitignore"
+        - "--exclude=sound"
+        - "--exclude=_project"
+        - "--exclude=dist"
+        - "--exclude=build"
+        - "--exclude=.idea"
+        - "--exclude=__pycache__"
+  - name: Run a script using an executable in a system path
+    command: python3 -m PyInstaller --onefile --windowed /var/specs/{{html_folder}}/main.py
+    args:
+      chdir: /var/specs/{{html_folder}}/
+  # - name: Run a script using an executable in a system path
+  #   command: cp /var/specs/{{html_folder}}/dist/main /var/specs/dist/tahidtest
+

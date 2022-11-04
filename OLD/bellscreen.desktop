@@ -1,0 +1,15 @@
+[Desktop Entry]
+Version=1.1
+Type=Application
+Encoding=UTF-8
+Name=BELLS Monitor
+Comment=OpenGL demotool
+Icon=system-file-manager
+Exec=/var/specs/dist/tahidtest
+Terminal=true
+Categories=System
+X-KeepTerminal=true
+Path=/var/specs/dist/tahidtest
+GenericName=Bell IT Live Call Monitor Tracker
+Comment[en_GB]=Bell IT Call Monitor
+StartupNotify=false

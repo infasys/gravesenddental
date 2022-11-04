@@ -1,0 +1,753 @@
+[2022-03-15T00:06:25.138600 13142] === CCACHE master.971f1183 STARTED =========================================
+[2022-03-15T00:06:25.138612 13140] === CCACHE master.971f1183 STARTED =========================================
+[2022-03-15T00:06:25.138701 13137] === CCACHE master.971f1183 STARTED =========================================
+[2022-03-15T00:06:25.138685 13141] === CCACHE master.971f1183 STARTED =========================================
+[2022-03-15T00:06:25.138732 13138] === CCACHE master.971f1183 STARTED =========================================
+[2022-03-15T00:06:25.138651 13139] === CCACHE master.971f1183 STARTED =========================================
+[2022-03-15T00:06:25.138705 13143] === CCACHE master.971f1183 STARTED =========================================
+[2022-03-15T00:06:25.138600 13142] Config: (default) absolute_paths_in_stderr = false
+[2022-03-15T00:06:25.138600 13142] Config: (default) base_dir = 
+[2022-03-15T00:06:25.138600 13142] Config: (environment) cache_dir = /Users/tahid/Library/Caches/Nuitka/ccache
+[2022-03-15T00:06:25.138600 13142] Config: (default) compiler = 
+[2022-03-15T00:06:25.138600 13142] Config: (default) compiler_check = mtime
+[2022-03-15T00:06:25.138600 13142] Config: (default) compiler_type = auto
+[2022-03-15T00:06:25.138600 13142] Config: (default) compression = true
+[2022-03-15T00:06:25.138600 13142] Config: (default) compression_level = 0
+[2022-03-15T00:06:25.138600 13142] Config: (default) cpp_extension = 
+[2022-03-15T00:06:25.138600 13142] Config: (default) debug = false
+[2022-03-15T00:06:25.138600 13142] Config: (default) debug_dir = 
+[2022-03-15T00:06:25.138600 13142] Config: (default) depend_mode = false
+[2022-03-15T00:06:25.138600 13142] Config: (default) direct_mode = true
+[2022-03-15T00:06:25.138600 13142] Config: (default) disable = false
+[2022-03-15T00:06:25.138600 13142] Config: (default) extra_files_to_hash = 
+[2022-03-15T00:06:25.138600 13142] Config: (default) file_clone = false
+[2022-03-15T00:06:25.138600 13142] Config: (default) hard_link = false
+[2022-03-15T00:06:25.138600 13142] Config: (default) hash_dir = true
+[2022-03-15T00:06:25.138600 13142] Config: (default) ignore_headers_in_manifest = 
+[2022-03-15T00:06:25.138600 13142] Config: (default) ignore_options = 
+[2022-03-15T00:06:25.138600 13142] Config: (default) inode_cache = false
+[2022-03-15T00:06:25.138600 13142] Config: (default) keep_comments_cpp = false
+[2022-03-15T00:06:25.138600 13142] Config: (default) limit_multiple = 0.8
+[2022-03-15T00:06:25.138600 13142] Config: (environment) log_file = /private/var/www/quickscreen/main.build/ccache-13120.txt
+[2022-03-15T00:06:25.138600 13142] Config: (default) max_files = 0
+[2022-03-15T00:06:25.138600 13142] Config: (default) max_size = 5.0G
+[2022-03-15T00:06:25.138600 13142] Config: (default) path = 
+[2022-03-15T00:06:25.138600 13142] Config: (default) pch_external_checksum = false
+[2022-03-15T00:06:25.138600 13142] Config: (default) prefix_command = 
+[2022-03-15T00:06:25.138600 13142] Config: (default) prefix_command_cpp = 
+[2022-03-15T00:06:25.138600 13142] Config: (default) read_only = false
+[2022-03-15T00:06:25.138600 13142] Config: (default) read_only_direct = false
+[2022-03-15T00:06:25.138600 13142] Config: (default) recache = false
+[2022-03-15T00:06:25.138600 13142] Config: (default) run_second_cpp = true
+[2022-03-15T00:06:25.138600 13142] Config: (default) sloppiness = 
+[2022-03-15T00:06:25.138600 13142] Config: (default) stats = true
+[2022-03-15T00:06:25.138600 13142] Config: (default) temporary_dir = /Users/tahid/Library/Caches/Nuitka/ccache/tmp
+[2022-03-15T00:06:25.138600 13142] Config: (default) umask = 
+[2022-03-15T00:06:25.138948 13142] Command line: /Users/tahid/Library/Application Support/Nuitka/ccache/v4.2.1/ccache /usr/bin/clang -o static_src/MainProgram.o -c -std=c11 -fvisibility=hidden -fwrapv -pipe -w -fvisibility=hidden -fvisibility-inlines-hidden --target=x86_64-apple-macos10.9 -O3 -D_XOPEN_SOURCE -D__NUITKA_NO_ASSERT__ -D_NUITKA_CONSTANTS_FROM_INCBIN -D_NUITKA_FROZEN=0 -D_NUITKA_EXE -I/Library/Frameworks/Python.framework/Versions/3.9/include/python3.9 -I. -I/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/site-packages/nuitka/build/include -I/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/site-packages/nuitka/build/static_src static_src/MainProgram.c
+[2022-03-15T00:06:25.138612 13140] Config: (default) absolute_paths_in_stderr = false
+[2022-03-15T00:06:25.138612 13140] Config: (default) base_dir = 
+[2022-03-15T00:06:25.138612 13140] Config: (environment) cache_dir = /Users/tahid/Library/Caches/Nuitka/ccache
+[2022-03-15T00:06:25.138612 13140] Config: (default) compiler = 
+[2022-03-15T00:06:25.138612 13140] Config: (default) compiler_check = mtime
+[2022-03-15T00:06:25.138612 13140] Config: (default) compiler_type = auto
+[2022-03-15T00:06:25.138612 13140] Config: (default) compression = true
+[2022-03-15T00:06:25.138612 13140] Config: (default) compression_level = 0
+[2022-03-15T00:06:25.138612 13140] Config: (default) cpp_extension = 
+[2022-03-15T00:06:25.138612 13140] Config: (default) debug = false
+[2022-03-15T00:06:25.138612 13140] Config: (default) debug_dir = 
+[2022-03-15T00:06:25.138612 13140] Config: (default) depend_mode = false
+[2022-03-15T00:06:25.138612 13140] Config: (default) direct_mode = true
+[2022-03-15T00:06:25.138612 13140] Config: (default) disable = false
+[2022-03-15T00:06:25.138612 13140] Config: (default) extra_files_to_hash = 
+[2022-03-15T00:06:25.138612 13140] Config: (default) file_clone = false
+[2022-03-15T00:06:25.138612 13140] Config: (default) hard_link = false
+[2022-03-15T00:06:25.138612 13140] Config: (default) hash_dir = true
+[2022-03-15T00:06:25.138612 13140] Config: (default) ignore_headers_in_manifest = 
+[2022-03-15T00:06:25.138612 13140] Config: (default) ignore_options = 
+[2022-03-15T00:06:25.138612 13140] Config: (default) inode_cache = false
+[2022-03-15T00:06:25.138612 13140] Config: (default) keep_comments_cpp = false
+[2022-03-15T00:06:25.138612 13140] Config: (default) limit_multiple = 0.8
+[2022-03-15T00:06:25.138612 13140] Config: (environment) log_file = /private/var/www/quickscreen/main.build/ccache-13120.txt
+[2022-03-15T00:06:25.138612 13140] Config: (default) max_files = 0
+[2022-03-15T00:06:25.138612 13140] Config: (default) max_size = 5.0G
+[2022-03-15T00:06:25.138612 13140] Config: (default) path = 
+[2022-03-15T00:06:25.138612 13140] Config: (default) pch_external_checksum = false
+[2022-03-15T00:06:25.138612 13140] Config: (default) prefix_command = 
+[2022-03-15T00:06:25.138612 13140] Config: (default) prefix_command_cpp = 
+[2022-03-15T00:06:25.138612 13140] Config: (default) read_only = false
+[2022-03-15T00:06:25.138612 13140] Config: (default) read_only_direct = false
+[2022-03-15T00:06:25.138612 13140] Config: (default) recache = false
+[2022-03-15T00:06:25.138612 13140] Config: (default) run_second_cpp = true
+[2022-03-15T00:06:25.138612 13140] Config: (default) sloppiness = 
+[2022-03-15T00:06:25.138612 13140] Config: (default) stats = true
+[2022-03-15T00:06:25.138612 13140] Config: (default) temporary_dir = /Users/tahid/Library/Caches/Nuitka/ccache/tmp
+[2022-03-15T00:06:25.138612 13140] Config: (default) umask = 
+[2022-03-15T00:06:25.138979 13140] Command line: /Users/tahid/Library/Application Support/Nuitka/ccache/v4.2.1/ccache /usr/bin/clang -o __loader.o -c -std=c11 -fvisibility=hidden -fwrapv -pipe -w -fvisibility=hidden -fvisibility-inlines-hidden --target=x86_64-apple-macos10.9 -O3 -D_XOPEN_SOURCE -D__NUITKA_NO_ASSERT__ -D_NUITKA_CONSTANTS_FROM_INCBIN -D_NUITKA_FROZEN=0 -D_NUITKA_EXE -I/Library/Frameworks/Python.framework/Versions/3.9/include/python3.9 -I. -I/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/site-packages/nuitka/build/include -I/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/site-packages/nuitka/build/static_src __loader.c
+[2022-03-15T00:06:25.139055 13142] Hostname: Tahids-MBP.broadband
+[2022-03-15T00:06:25.138685 13141] Config: (default) absolute_paths_in_stderr = false
+[2022-03-15T00:06:25.138685 13141] Config: (default) base_dir = 
+[2022-03-15T00:06:25.138685 13141] Config: (environment) cache_dir = /Users/tahid/Library/Caches/Nuitka/ccache
+[2022-03-15T00:06:25.138685 13141] Config: (default) compiler = 
+[2022-03-15T00:06:25.138685 13141] Config: (default) compiler_check = mtime
+[2022-03-15T00:06:25.138685 13141] Config: (default) compiler_type = auto
+[2022-03-15T00:06:25.138685 13141] Config: (default) compression = true
+[2022-03-15T00:06:25.138685 13141] Config: (default) compression_level = 0
+[2022-03-15T00:06:25.138685 13141] Config: (default) cpp_extension = 
+[2022-03-15T00:06:25.138685 13141] Config: (default) debug = false
+[2022-03-15T00:06:25.138685 13141] Config: (default) debug_dir = 
+[2022-03-15T00:06:25.138685 13141] Config: (default) depend_mode = false
+[2022-03-15T00:06:25.138685 13141] Config: (default) direct_mode = true
+[2022-03-15T00:06:25.138685 13141] Config: (default) disable = false
+[2022-03-15T00:06:25.138685 13141] Config: (default) extra_files_to_hash = 
+[2022-03-15T00:06:25.138685 13141] Config: (default) file_clone = false
+[2022-03-15T00:06:25.138685 13141] Config: (default) hard_link = false
+[2022-03-15T00:06:25.138685 13141] Config: (default) hash_dir = true
+[2022-03-15T00:06:25.138685 13141] Config: (default) ignore_headers_in_manifest = 
+[2022-03-15T00:06:25.138685 13141] Config: (default) ignore_options = 
+[2022-03-15T00:06:25.138685 13141] Config: (default) inode_cache = false
+[2022-03-15T00:06:25.138685 13141] Config: (default) keep_comments_cpp = false
+[2022-03-15T00:06:25.138685 13141] Config: (default) limit_multiple = 0.8
+[2022-03-15T00:06:25.138685 13141] Config: (environment) log_file = /private/var/www/quickscreen/main.build/ccache-13120.txt
+[2022-03-15T00:06:25.138685 13141] Config: (default) max_files = 0
+[2022-03-15T00:06:25.138685 13141] Config: (default) max_size = 5.0G
+[2022-03-15T00:06:25.138685 13141] Config: (default) path = 
+[2022-03-15T00:06:25.138685 13141] Config: (default) pch_external_checksum = false
+[2022-03-15T00:06:25.138685 13141] Config: (default) prefix_command = 
+[2022-03-15T00:06:25.138685 13141] Config: (default) prefix_command_cpp = 
+[2022-03-15T00:06:25.138685 13141] Config: (default) read_only = false
+[2022-03-15T00:06:25.138685 13141] Config: (default) read_only_direct = false
+[2022-03-15T00:06:25.138685 13141] Config: (default) recache = false
+[2022-03-15T00:06:25.138685 13141] Config: (default) run_second_cpp = true
+[2022-03-15T00:06:25.138685 13141] Config: (default) sloppiness = 
+[2022-03-15T00:06:25.138685 13141] Config: (default) stats = true
+[2022-03-15T00:06:25.138685 13141] Config: (default) temporary_dir = /Users/tahid/Library/Caches/Nuitka/ccache/tmp
+[2022-03-15T00:06:25.138685 13141] Config: (default) umask = 
+[2022-03-15T00:06:25.139060 13141] Command line: /Users/tahid/Library/Application Support/Nuitka/ccache/v4.2.1/ccache /usr/bin/clang -o module.__main__.o -c -std=c11 -fvisibility=hidden -fwrapv -pipe -w -fvisibility=hidden -fvisibility-inlines-hidden --target=x86_64-apple-macos10.9 -O3 -D_XOPEN_SOURCE -D__NUITKA_NO_ASSERT__ -D_NUITKA_CONSTANTS_FROM_INCBIN -D_NUITKA_FROZEN=0 -D_NUITKA_EXE -I/Library/Frameworks/Python.framework/Versions/3.9/include/python3.9 -I. -I/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/site-packages/nuitka/build/include -I/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/site-packages/nuitka/build/static_src module.__main__.c
+[2022-03-15T00:06:25.138701 13137] Config: (default) absolute_paths_in_stderr = false
+[2022-03-15T00:06:25.138701 13137] Config: (default) base_dir = 
+[2022-03-15T00:06:25.138701 13137] Config: (environment) cache_dir = /Users/tahid/Library/Caches/Nuitka/ccache
+[2022-03-15T00:06:25.138701 13137] Config: (default) compiler = 
+[2022-03-15T00:06:25.138701 13137] Config: (default) compiler_check = mtime
+[2022-03-15T00:06:25.138701 13137] Config: (default) compiler_type = auto
+[2022-03-15T00:06:25.138701 13137] Config: (default) compression = true
+[2022-03-15T00:06:25.138701 13137] Config: (default) compression_level = 0
+[2022-03-15T00:06:25.138701 13137] Config: (default) cpp_extension = 
+[2022-03-15T00:06:25.138701 13137] Config: (default) debug = false
+[2022-03-15T00:06:25.138701 13137] Config: (default) debug_dir = 
+[2022-03-15T00:06:25.138701 13137] Config: (default) depend_mode = false
+[2022-03-15T00:06:25.138701 13137] Config: (default) direct_mode = true
+[2022-03-15T00:06:25.138701 13137] Config: (default) disable = false
+[2022-03-15T00:06:25.138701 13137] Config: (default) extra_files_to_hash = 
+[2022-03-15T00:06:25.138701 13137] Config: (default) file_clone = false
+[2022-03-15T00:06:25.138701 13137] Config: (default) hard_link = false
+[2022-03-15T00:06:25.138701 13137] Config: (default) hash_dir = true
+[2022-03-15T00:06:25.138701 13137] Config: (default) ignore_headers_in_manifest = 
+[2022-03-15T00:06:25.138701 13137] Config: (default) ignore_options = 
+[2022-03-15T00:06:25.138701 13137] Config: (default) inode_cache = false
+[2022-03-15T00:06:25.138701 13137] Config: (default) keep_comments_cpp = false
+[2022-03-15T00:06:25.138701 13137] Config: (default) limit_multiple = 0.8
+[2022-03-15T00:06:25.138701 13137] Config: (environment) log_file = /private/var/www/quickscreen/main.build/ccache-13120.txt
+[2022-03-15T00:06:25.138701 13137] Config: (default) max_files = 0
+[2022-03-15T00:06:25.138701 13137] Config: (default) max_size = 5.0G
+[2022-03-15T00:06:25.138701 13137] Config: (default) path = 
+[2022-03-15T00:06:25.138701 13137] Config: (default) pch_external_checksum = false
+[2022-03-15T00:06:25.138701 13137] Config: (default) prefix_command = 
+[2022-03-15T00:06:25.138701 13137] Config: (default) prefix_command_cpp = 
+[2022-03-15T00:06:25.138701 13137] Config: (default) read_only = false
+[2022-03-15T00:06:25.138701 13137] Config: (default) read_only_direct = false
+[2022-03-15T00:06:25.138701 13137] Config: (default) recache = false
+[2022-03-15T00:06:25.138701 13137] Config: (default) run_second_cpp = true
+[2022-03-15T00:06:25.138701 13137] Config: (default) sloppiness = 
+[2022-03-15T00:06:25.138701 13137] Config: (default) stats = true
+[2022-03-15T00:06:25.138701 13137] Config: (default) temporary_dir = /Users/tahid/Library/Caches/Nuitka/ccache/tmp
+[2022-03-15T00:06:25.138701 13137] Config: (default) umask = 
+[2022-03-15T00:06:25.139012 13137] Command line: /Users/tahid/Library/Application Support/Nuitka/ccache/v4.2.1/ccache /usr/bin/clang -o __constants.o -c -std=c11 -fvisibility=hidden -fwrapv -pipe -w -fvisibility=hidden -fvisibility-inlines-hidden --target=x86_64-apple-macos10.9 -O3 -D_XOPEN_SOURCE -D__NUITKA_NO_ASSERT__ -D_NUITKA_CONSTANTS_FROM_INCBIN -D_NUITKA_FROZEN=0 -D_NUITKA_EXE -I/Library/Frameworks/Python.framework/Versions/3.9/include/python3.9 -I. -I/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/site-packages/nuitka/build/include -I/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/site-packages/nuitka/build/static_src __constants.c
+[2022-03-15T00:06:25.138651 13139] Config: (default) absolute_paths_in_stderr = false
+[2022-03-15T00:06:25.138651 13139] Config: (default) base_dir = 
+[2022-03-15T00:06:25.138651 13139] Config: (environment) cache_dir = /Users/tahid/Library/Caches/Nuitka/ccache
+[2022-03-15T00:06:25.138651 13139] Config: (default) compiler = 
+[2022-03-15T00:06:25.138651 13139] Config: (default) compiler_check = mtime
+[2022-03-15T00:06:25.138651 13139] Config: (default) compiler_type = auto
+[2022-03-15T00:06:25.138651 13139] Config: (default) compression = true
+[2022-03-15T00:06:25.138651 13139] Config: (default) compression_level = 0
+[2022-03-15T00:06:25.138651 13139] Config: (default) cpp_extension = 
+[2022-03-15T00:06:25.138651 13139] Config: (default) debug = false
+[2022-03-15T00:06:25.138651 13139] Config: (default) debug_dir = 
+[2022-03-15T00:06:25.138651 13139] Config: (default) depend_mode = false
+[2022-03-15T00:06:25.138651 13139] Config: (default) direct_mode = true
+[2022-03-15T00:06:25.138651 13139] Config: (default) disable = false
+[2022-03-15T00:06:25.138651 13139] Config: (default) extra_files_to_hash = 
+[2022-03-15T00:06:25.138651 13139] Config: (default) file_clone = false
+[2022-03-15T00:06:25.138651 13139] Config: (default) hard_link = false
+[2022-03-15T00:06:25.138651 13139] Config: (default) hash_dir = true
+[2022-03-15T00:06:25.138651 13139] Config: (default) ignore_headers_in_manifest = 
+[2022-03-15T00:06:25.138651 13139] Config: (default) ignore_options = 
+[2022-03-15T00:06:25.138651 13139] Config: (default) inode_cache = false
+[2022-03-15T00:06:25.138651 13139] Config: (default) keep_comments_cpp = false
+[2022-03-15T00:06:25.138651 13139] Config: (default) limit_multiple = 0.8
+[2022-03-15T00:06:25.138651 13139] Config: (environment) log_file = /private/var/www/quickscreen/main.build/ccache-13120.txt
+[2022-03-15T00:06:25.138651 13139] Config: (default) max_files = 0
+[2022-03-15T00:06:25.138651 13139] Config: (default) max_size = 5.0G
+[2022-03-15T00:06:25.138651 13139] Config: (default) path = 
+[2022-03-15T00:06:25.138651 13139] Config: (default) pch_external_checksum = false
+[2022-03-15T00:06:25.138651 13139] Config: (default) prefix_command = 
+[2022-03-15T00:06:25.138651 13139] Config: (default) prefix_command_cpp = 
+[2022-03-15T00:06:25.138651 13139] Config: (default) read_only = false
+[2022-03-15T00:06:25.138651 13139] Config: (default) read_only_direct = false
+[2022-03-15T00:06:25.138651 13139] Config: (default) recache = false
+[2022-03-15T00:06:25.138651 13139] Config: (default) run_second_cpp = true
+[2022-03-15T00:06:25.138651 13139] Config: (default) sloppiness = 
+[2022-03-15T00:06:25.138651 13139] Config: (default) stats = true
+[2022-03-15T00:06:25.138651 13139] Config: (default) temporary_dir = /Users/tahid/Library/Caches/Nuitka/ccache/tmp
+[2022-03-15T00:06:25.138651 13139] Config: (default) umask = 
+[2022-03-15T00:06:25.139090 13139] Command line: /Users/tahid/Library/Application Support/Nuitka/ccache/v4.2.1/ccache /usr/bin/clang -o __helpers.o -c -std=c11 -fvisibility=hidden -fwrapv -pipe -w -fvisibility=hidden -fvisibility-inlines-hidden --target=x86_64-apple-macos10.9 -O3 -D_XOPEN_SOURCE -D__NUITKA_NO_ASSERT__ -D_NUITKA_CONSTANTS_FROM_INCBIN -D_NUITKA_FROZEN=0 -D_NUITKA_EXE -I/Library/Frameworks/Python.framework/Versions/3.9/include/python3.9 -I. -I/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/site-packages/nuitka/build/include -I/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/site-packages/nuitka/build/static_src __helpers.c
+[2022-03-15T00:06:25.138732 13138] Config: (default) absolute_paths_in_stderr = false
+[2022-03-15T00:06:25.138732 13138] Config: (default) base_dir = 
+[2022-03-15T00:06:25.138732 13138] Config: (environment) cache_dir = /Users/tahid/Library/Caches/Nuitka/ccache
+[2022-03-15T00:06:25.138732 13138] Config: (default) compiler = 
+[2022-03-15T00:06:25.138732 13138] Config: (default) compiler_check = mtime
+[2022-03-15T00:06:25.138732 13138] Config: (default) compiler_type = auto
+[2022-03-15T00:06:25.138732 13138] Config: (default) compression = true
+[2022-03-15T00:06:25.138732 13138] Config: (default) compression_level = 0
+[2022-03-15T00:06:25.138732 13138] Config: (default) cpp_extension = 
+[2022-03-15T00:06:25.138732 13138] Config: (default) debug = false
+[2022-03-15T00:06:25.138732 13138] Config: (default) debug_dir = 
+[2022-03-15T00:06:25.138732 13138] Config: (default) depend_mode = false
+[2022-03-15T00:06:25.138732 13138] Config: (default) direct_mode = true
+[2022-03-15T00:06:25.138732 13138] Config: (environment) disable = true
+[2022-03-15T00:06:25.138732 13138] Config: (default) extra_files_to_hash = 
+[2022-03-15T00:06:25.138732 13138] Config: (default) file_clone = false
+[2022-03-15T00:06:25.138732 13138] Config: (default) hard_link = false
+[2022-03-15T00:06:25.138732 13138] Config: (default) hash_dir = true
+[2022-03-15T00:06:25.138732 13138] Config: (default) ignore_headers_in_manifest = 
+[2022-03-15T00:06:25.138732 13138] Config: (default) ignore_options = 
+[2022-03-15T00:06:25.138732 13138] Config: (default) inode_cache = false
+[2022-03-15T00:06:25.138732 13138] Config: (default) keep_comments_cpp = false
+[2022-03-15T00:06:25.138732 13138] Config: (default) limit_multiple = 0.8
+[2022-03-15T00:06:25.138732 13138] Config: (environment) log_file = /private/var/www/quickscreen/main.build/ccache-13120.txt
+[2022-03-15T00:06:25.138732 13138] Config: (default) max_files = 0
+[2022-03-15T00:06:25.138732 13138] Config: (default) max_size = 5.0G
+[2022-03-15T00:06:25.138732 13138] Config: (default) path = 
+[2022-03-15T00:06:25.138732 13138] Config: (default) pch_external_checksum = false
+[2022-03-15T00:06:25.138732 13138] Config: (default) prefix_command = 
+[2022-03-15T00:06:25.138732 13138] Config: (default) prefix_command_cpp = 
+[2022-03-15T00:06:25.138732 13138] Config: (default) read_only = false
+[2022-03-15T00:06:25.138732 13138] Config: (default) read_only_direct = false
+[2022-03-15T00:06:25.138732 13138] Config: (default) recache = false
+[2022-03-15T00:06:25.138732 13138] Config: (default) run_second_cpp = true
+[2022-03-15T00:06:25.138732 13138] Config: (default) sloppiness = 
+[2022-03-15T00:06:25.138732 13138] Config: (default) stats = true
+[2022-03-15T00:06:25.138732 13138] Config: (default) temporary_dir = /Users/tahid/Library/Caches/Nuitka/ccache/tmp
+[2022-03-15T00:06:25.138732 13138] Config: (default) umask = 
+[2022-03-15T00:06:25.139076 13138] ccache is disabled
+[2022-03-15T00:06:25.139081 13142] Working directory: /private/var/www/quickscreen/main.build
+[2022-03-15T00:06:25.138705 13143] Config: (default) absolute_paths_in_stderr = false
+[2022-03-15T00:06:25.138705 13143] Config: (default) base_dir = 
+[2022-03-15T00:06:25.138705 13143] Config: (environment) cache_dir = /Users/tahid/Library/Caches/Nuitka/ccache
+[2022-03-15T00:06:25.138705 13143] Config: (default) compiler = 
+[2022-03-15T00:06:25.138705 13143] Config: (default) compiler_check = mtime
+[2022-03-15T00:06:25.138705 13143] Config: (default) compiler_type = auto
+[2022-03-15T00:06:25.138705 13143] Config: (default) compression = true
+[2022-03-15T00:06:25.138705 13143] Config: (default) compression_level = 0
+[2022-03-15T00:06:25.138705 13143] Config: (default) cpp_extension = 
+[2022-03-15T00:06:25.138705 13143] Config: (default) debug = false
+[2022-03-15T00:06:25.138705 13143] Config: (default) debug_dir = 
+[2022-03-15T00:06:25.138705 13143] Config: (default) depend_mode = false
+[2022-03-15T00:06:25.138705 13143] Config: (default) direct_mode = true
+[2022-03-15T00:06:25.138705 13143] Config: (default) disable = false
+[2022-03-15T00:06:25.138705 13143] Config: (default) extra_files_to_hash = 
+[2022-03-15T00:06:25.138705 13143] Config: (default) file_clone = false
+[2022-03-15T00:06:25.138705 13143] Config: (default) hard_link = false
+[2022-03-15T00:06:25.138705 13143] Config: (default) hash_dir = true
+[2022-03-15T00:06:25.138705 13143] Config: (default) ignore_headers_in_manifest = 
+[2022-03-15T00:06:25.138705 13143] Config: (default) ignore_options = 
+[2022-03-15T00:06:25.138705 13143] Config: (default) inode_cache = false
+[2022-03-15T00:06:25.138705 13143] Config: (default) keep_comments_cpp = false
+[2022-03-15T00:06:25.138705 13143] Config: (default) limit_multiple = 0.8
+[2022-03-15T00:06:25.138705 13143] Config: (environment) log_file = /private/var/www/quickscreen/main.build/ccache-13120.txt
+[2022-03-15T00:06:25.138705 13143] Config: (default) max_files = 0
+[2022-03-15T00:06:25.138705 13143] Config: (default) max_size = 5.0G
+[2022-03-15T00:06:25.138705 13143] Config: (default) path = 
+[2022-03-15T00:06:25.138705 13143] Config: (default) pch_external_checksum = false
+[2022-03-15T00:06:25.138705 13143] Config: (default) prefix_command = 
+[2022-03-15T00:06:25.138705 13143] Config: (default) prefix_command_cpp = 
+[2022-03-15T00:06:25.138705 13143] Config: (default) read_only = false
+[2022-03-15T00:06:25.138705 13143] Config: (default) read_only_direct = false
+[2022-03-15T00:06:25.138705 13143] Config: (default) recache = false
+[2022-03-15T00:06:25.138705 13143] Config: (default) run_second_cpp = true
+[2022-03-15T00:06:25.138705 13143] Config: (default) sloppiness = 
+[2022-03-15T00:06:25.138705 13143] Config: (default) stats = true
+[2022-03-15T00:06:25.138705 13143] Config: (default) temporary_dir = /Users/tahid/Library/Caches/Nuitka/ccache/tmp
+[2022-03-15T00:06:25.138705 13143] Config: (default) umask = 
+[2022-03-15T00:06:25.139116 13143] Command line: /Users/tahid/Library/Application Support/Nuitka/ccache/v4.2.1/ccache /usr/bin/clang -o static_src/CompiledCellType.o -c -std=c11 -fvisibility=hidden -fwrapv -pipe -w -fvisibility=hidden -fvisibility-inlines-hidden --target=x86_64-apple-macos10.9 -O3 -D_XOPEN_SOURCE -D__NUITKA_NO_ASSERT__ -D_NUITKA_CONSTANTS_FROM_INCBIN -D_NUITKA_FROZEN=0 -D_NUITKA_EXE -I/Library/Frameworks/Python.framework/Versions/3.9/include/python3.9 -I. -I/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/site-packages/nuitka/build/include -I/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/site-packages/nuitka/build/static_src static_src/CompiledCellType.c
+[2022-03-15T00:06:25.139272 13137] Hostname: Tahids-MBP.broadband
+[2022-03-15T00:06:25.139352 13139] Hostname: Tahids-MBP.broadband
+[2022-03-15T00:06:25.139500 13143] Hostname: Tahids-MBP.broadband
+[2022-03-15T00:06:25.139505 13137] Working directory: /private/var/www/quickscreen/main.build
+[2022-03-15T00:06:25.139530 13143] Working directory: /private/var/www/quickscreen/main.build
+[2022-03-15T00:06:25.139557 13138] Failed; falling back to running the real compiler
+[2022-03-15T00:06:25.139414 13142] Compiler type: clang
+[2022-03-15T00:06:25.139587 13143] Compiler type: clang
+[2022-03-15T00:06:25.139083 13140] Hostname: Tahids-MBP.broadband
+[2022-03-15T00:06:25.139197 13141] Hostname: Tahids-MBP.broadband
+[2022-03-15T00:06:25.139549 13137] Compiler type: clang
+[2022-03-15T00:06:25.139651 13140] Working directory: /private/var/www/quickscreen/main.build
+[2022-03-15T00:06:25.139515 13139] Working directory: /private/var/www/quickscreen/main.build
+[2022-03-15T00:06:25.139625 13138] Executing /usr/bin/clang -o __constants_data.o -c -std=c11 -fvisibility=hidden -fwrapv -pipe -w -fvisibility=hidden -fvisibility-inlines-hidden --target=x86_64-apple-macos10.9 -O3 -D_XOPEN_SOURCE -D__NUITKA_NO_ASSERT__ -D_NUITKA_CONSTANTS_FROM_INCBIN -D_NUITKA_FROZEN=0 -D_NUITKA_EXE -I/Library/Frameworks/Python.framework/Versions/3.9/include/python3.9 -I. -I/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/site-packages/nuitka/build/include -I/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/site-packages/nuitka/build/static_src __constants_data.c
+[2022-03-15T00:06:25.139713 13139] Compiler type: clang
+[2022-03-15T00:06:25.139653 13141] Working directory: /private/var/www/quickscreen/main.build
+[2022-03-15T00:06:25.139684 13140] Compiler type: clang
+[2022-03-15T00:06:25.139732 13138] Result: disabled
+[2022-03-15T00:06:25.139764 13141] Compiler type: clang
+[2022-03-15T00:06:25.139855 13143] Source file: static_src/CompiledCellType.c
+[2022-03-15T00:06:25.139884 13143] Object file: static_src/CompiledCellType.o
+[2022-03-15T00:06:25.139882 13142] Source file: static_src/MainProgram.c
+[2022-03-15T00:06:25.139925 13142] Object file: static_src/MainProgram.o
+[2022-03-15T00:06:25.139927 13137] Source file: __constants.c
+[2022-03-15T00:06:25.139964 13143] Trying direct lookup
+[2022-03-15T00:06:25.139969 13137] Object file: __constants.o
+[2022-03-15T00:06:25.139972 13139] Source file: __helpers.c
+[2022-03-15T00:06:25.140033 13142] Trying direct lookup
+[2022-03-15T00:06:25.140050 13139] Object file: __helpers.o
+[2022-03-15T00:06:25.140055 13141] Source file: module.__main__.c
+[2022-03-15T00:06:25.140071 13137] Trying direct lookup
+[2022-03-15T00:06:25.140086 13141] Object file: module.__main__.o
+[2022-03-15T00:06:25.140070 13140] Source file: __loader.c
+[2022-03-15T00:06:25.140130 13140] Object file: __loader.o
+[2022-03-15T00:06:25.140142 13139] Trying direct lookup
+[2022-03-15T00:06:25.140158 13141] Trying direct lookup
+[2022-03-15T00:06:25.140192 13140] Trying direct lookup
+[2022-03-15T00:06:25.140230 13143] No manifest with name 4a7aa7f4d5pi62vdtoov73j9veoemv1go in the cache
+[2022-03-15T00:06:25.140263 13137] No manifest with name d9f0kdshuupl881l196s62nhjbr89jdbg in the cache
+[2022-03-15T00:06:25.140311 13142] No manifest with name daa1nmu9fev6ui61q080v23q3bnmi08n0 in the cache
+[2022-03-15T00:06:25.140338 13139] No manifest with name 997e2haiggco6d2kbpd1q5fpgq42vg1kc in the cache
+[2022-03-15T00:06:25.140364 13140] No manifest with name f670881akj763r8pmelrakblh099b8g6m in the cache
+[2022-03-15T00:06:25.141524 13143] Running preprocessor
+[2022-03-15T00:06:25.141566 13143] Executing /usr/bin/clang -std=c11 -fvisibility=hidden -fwrapv -pipe -w -fvisibility=hidden -fvisibility-inlines-hidden --target=x86_64-apple-macos10.9 -O3 -D_XOPEN_SOURCE -D__NUITKA_NO_ASSERT__ -D_NUITKA_CONSTANTS_FROM_INCBIN -D_NUITKA_FROZEN=0 -D_NUITKA_EXE -I/Library/Frameworks/Python.framework/Versions/3.9/include/python3.9 -I. -I/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/site-packages/nuitka/build/include -I/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/site-packages/nuitka/build/static_src -E static_src/CompiledCellType.c
+[2022-03-15T00:06:25.141587 13141] No manifest with name 8a1dieh1eg337k9oc1bnm8r4eeajtulai in the cache
+[2022-03-15T00:06:25.141603 13139] Running preprocessor
+[2022-03-15T00:06:25.141642 13139] Executing /usr/bin/clang -std=c11 -fvisibility=hidden -fwrapv -pipe -w -fvisibility=hidden -fvisibility-inlines-hidden --target=x86_64-apple-macos10.9 -O3 -D_XOPEN_SOURCE -D__NUITKA_NO_ASSERT__ -D_NUITKA_CONSTANTS_FROM_INCBIN -D_NUITKA_FROZEN=0 -D_NUITKA_EXE -I/Library/Frameworks/Python.framework/Versions/3.9/include/python3.9 -I. -I/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/site-packages/nuitka/build/include -I/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/site-packages/nuitka/build/static_src -E __helpers.c
+[2022-03-15T00:06:25.141653 13137] Running preprocessor
+[2022-03-15T00:06:25.141691 13142] Running preprocessor
+[2022-03-15T00:06:25.141709 13137] Executing /usr/bin/clang -std=c11 -fvisibility=hidden -fwrapv -pipe -w -fvisibility=hidden -fvisibility-inlines-hidden --target=x86_64-apple-macos10.9 -O3 -D_XOPEN_SOURCE -D__NUITKA_NO_ASSERT__ -D_NUITKA_CONSTANTS_FROM_INCBIN -D_NUITKA_FROZEN=0 -D_NUITKA_EXE -I/Library/Frameworks/Python.framework/Versions/3.9/include/python3.9 -I. -I/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/site-packages/nuitka/build/include -I/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/site-packages/nuitka/build/static_src -E __constants.c
+[2022-03-15T00:06:25.141730 13142] Executing /usr/bin/clang -std=c11 -fvisibility=hidden -fwrapv -pipe -w -fvisibility=hidden -fvisibility-inlines-hidden --target=x86_64-apple-macos10.9 -O3 -D_XOPEN_SOURCE -D__NUITKA_NO_ASSERT__ -D_NUITKA_CONSTANTS_FROM_INCBIN -D_NUITKA_FROZEN=0 -D_NUITKA_EXE -I/Library/Frameworks/Python.framework/Versions/3.9/include/python3.9 -I. -I/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/site-packages/nuitka/build/include -I/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/site-packages/nuitka/build/static_src -E static_src/MainProgram.c
+[2022-03-15T00:06:25.141707 13140] Running preprocessor
+[2022-03-15T00:06:25.141775 13140] Executing /usr/bin/clang -std=c11 -fvisibility=hidden -fwrapv -pipe -w -fvisibility=hidden -fvisibility-inlines-hidden --target=x86_64-apple-macos10.9 -O3 -D_XOPEN_SOURCE -D__NUITKA_NO_ASSERT__ -D_NUITKA_CONSTANTS_FROM_INCBIN -D_NUITKA_FROZEN=0 -D_NUITKA_EXE -I/Library/Frameworks/Python.framework/Versions/3.9/include/python3.9 -I. -I/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/site-packages/nuitka/build/include -I/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/site-packages/nuitka/build/static_src -E __loader.c
+[2022-03-15T00:06:25.142629 13141] Running preprocessor
+[2022-03-15T00:06:25.142672 13141] Executing /usr/bin/clang -std=c11 -fvisibility=hidden -fwrapv -pipe -w -fvisibility=hidden -fvisibility-inlines-hidden --target=x86_64-apple-macos10.9 -O3 -D_XOPEN_SOURCE -D__NUITKA_NO_ASSERT__ -D_NUITKA_CONSTANTS_FROM_INCBIN -D_NUITKA_FROZEN=0 -D_NUITKA_EXE -I/Library/Frameworks/Python.framework/Versions/3.9/include/python3.9 -I. -I/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/site-packages/nuitka/build/include -I/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/site-packages/nuitka/build/static_src -E module.__main__.c
+[2022-03-15T00:06:25.205039 13150] === CCACHE master.971f1183 STARTED =========================================
+[2022-03-15T00:06:25.205039 13150] Config: (default) absolute_paths_in_stderr = false
+[2022-03-15T00:06:25.205039 13150] Config: (default) base_dir = 
+[2022-03-15T00:06:25.205039 13150] Config: (environment) cache_dir = /Users/tahid/Library/Caches/Nuitka/ccache
+[2022-03-15T00:06:25.205039 13150] Config: (default) compiler = 
+[2022-03-15T00:06:25.205039 13150] Config: (default) compiler_check = mtime
+[2022-03-15T00:06:25.205039 13150] Config: (default) compiler_type = auto
+[2022-03-15T00:06:25.205039 13150] Config: (default) compression = true
+[2022-03-15T00:06:25.205039 13150] Config: (default) compression_level = 0
+[2022-03-15T00:06:25.205039 13150] Config: (default) cpp_extension = 
+[2022-03-15T00:06:25.205039 13150] Config: (default) debug = false
+[2022-03-15T00:06:25.205039 13150] Config: (default) debug_dir = 
+[2022-03-15T00:06:25.205039 13150] Config: (default) depend_mode = false
+[2022-03-15T00:06:25.205039 13150] Config: (default) direct_mode = true
+[2022-03-15T00:06:25.205039 13150] Config: (default) disable = false
+[2022-03-15T00:06:25.205039 13150] Config: (default) extra_files_to_hash = 
+[2022-03-15T00:06:25.205039 13150] Config: (default) file_clone = false
+[2022-03-15T00:06:25.205039 13150] Config: (default) hard_link = false
+[2022-03-15T00:06:25.205039 13150] Config: (default) hash_dir = true
+[2022-03-15T00:06:25.205039 13150] Config: (default) ignore_headers_in_manifest = 
+[2022-03-15T00:06:25.205039 13150] Config: (default) ignore_options = 
+[2022-03-15T00:06:25.205039 13150] Config: (default) inode_cache = false
+[2022-03-15T00:06:25.205039 13150] Config: (default) keep_comments_cpp = false
+[2022-03-15T00:06:25.205039 13150] Config: (default) limit_multiple = 0.8
+[2022-03-15T00:06:25.205039 13150] Config: (environment) log_file = /private/var/www/quickscreen/main.build/ccache-13120.txt
+[2022-03-15T00:06:25.205039 13150] Config: (default) max_files = 0
+[2022-03-15T00:06:25.205039 13150] Config: (default) max_size = 5.0G
+[2022-03-15T00:06:25.205039 13150] Config: (default) path = 
+[2022-03-15T00:06:25.205039 13150] Config: (default) pch_external_checksum = false
+[2022-03-15T00:06:25.205039 13150] Config: (default) prefix_command = 
+[2022-03-15T00:06:25.205039 13150] Config: (default) prefix_command_cpp = 
+[2022-03-15T00:06:25.205039 13150] Config: (default) read_only = false
+[2022-03-15T00:06:25.205039 13150] Config: (default) read_only_direct = false
+[2022-03-15T00:06:25.205039 13150] Config: (default) recache = false
+[2022-03-15T00:06:25.205039 13150] Config: (default) run_second_cpp = true
+[2022-03-15T00:06:25.205039 13150] Config: (default) sloppiness = 
+[2022-03-15T00:06:25.205039 13150] Config: (default) stats = true
+[2022-03-15T00:06:25.205039 13150] Config: (default) temporary_dir = /Users/tahid/Library/Caches/Nuitka/ccache/tmp
+[2022-03-15T00:06:25.205039 13150] Config: (default) umask = 
+[2022-03-15T00:06:25.205236 13150] Command line: /Users/tahid/Library/Application Support/Nuitka/ccache/v4.2.1/ccache /usr/bin/clang -o static_src/CompiledFunctionType.o -c -std=c11 -fvisibility=hidden -fwrapv -pipe -w -fvisibility=hidden -fvisibility-inlines-hidden --target=x86_64-apple-macos10.9 -O3 -D_XOPEN_SOURCE -D__NUITKA_NO_ASSERT__ -D_NUITKA_CONSTANTS_FROM_INCBIN -D_NUITKA_FROZEN=0 -D_NUITKA_EXE -I/Library/Frameworks/Python.framework/Versions/3.9/include/python3.9 -I. -I/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/site-packages/nuitka/build/include -I/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/site-packages/nuitka/build/static_src static_src/CompiledFunctionType.c
+[2022-03-15T00:06:25.205258 13150] Hostname: Tahids-MBP.broadband
+[2022-03-15T00:06:25.205268 13150] Working directory: /private/var/www/quickscreen/main.build
+[2022-03-15T00:06:25.205276 13150] Compiler type: clang
+[2022-03-15T00:06:25.205410 13150] Source file: static_src/CompiledFunctionType.c
+[2022-03-15T00:06:25.205424 13150] Object file: static_src/CompiledFunctionType.o
+[2022-03-15T00:06:25.205465 13150] Trying direct lookup
+[2022-03-15T00:06:25.205772 13150] No manifest with name 2444tetjb14b5nfm9qi40bgdlq7ivtb8i in the cache
+[2022-03-15T00:06:25.206688 13150] Running preprocessor
+[2022-03-15T00:06:25.206729 13150] Executing /usr/bin/clang -std=c11 -fvisibility=hidden -fwrapv -pipe -w -fvisibility=hidden -fvisibility-inlines-hidden --target=x86_64-apple-macos10.9 -O3 -D_XOPEN_SOURCE -D__NUITKA_NO_ASSERT__ -D_NUITKA_CONSTANTS_FROM_INCBIN -D_NUITKA_FROZEN=0 -D_NUITKA_EXE -I/Library/Frameworks/Python.framework/Versions/3.9/include/python3.9 -I. -I/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/site-packages/nuitka/build/include -I/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/site-packages/nuitka/build/static_src -E static_src/CompiledFunctionType.c
+[2022-03-15T00:06:25.297488 13160] === CCACHE master.971f1183 STARTED =========================================
+[2022-03-15T00:06:25.297488 13160] Config: (default) absolute_paths_in_stderr = false
+[2022-03-15T00:06:25.297488 13160] Config: (default) base_dir = 
+[2022-03-15T00:06:25.297488 13160] Config: (environment) cache_dir = /Users/tahid/Library/Caches/Nuitka/ccache
+[2022-03-15T00:06:25.297488 13160] Config: (default) compiler = 
+[2022-03-15T00:06:25.297488 13160] Config: (default) compiler_check = mtime
+[2022-03-15T00:06:25.297488 13160] Config: (default) compiler_type = auto
+[2022-03-15T00:06:25.297488 13160] Config: (default) compression = true
+[2022-03-15T00:06:25.297488 13160] Config: (default) compression_level = 0
+[2022-03-15T00:06:25.297488 13160] Config: (default) cpp_extension = 
+[2022-03-15T00:06:25.297488 13160] Config: (default) debug = false
+[2022-03-15T00:06:25.297488 13160] Config: (default) debug_dir = 
+[2022-03-15T00:06:25.297488 13160] Config: (default) depend_mode = false
+[2022-03-15T00:06:25.297488 13160] Config: (default) direct_mode = true
+[2022-03-15T00:06:25.297488 13160] Config: (default) disable = false
+[2022-03-15T00:06:25.297488 13160] Config: (default) extra_files_to_hash = 
+[2022-03-15T00:06:25.297488 13160] Config: (default) file_clone = false
+[2022-03-15T00:06:25.297488 13160] Config: (default) hard_link = false
+[2022-03-15T00:06:25.297488 13160] Config: (default) hash_dir = true
+[2022-03-15T00:06:25.297488 13160] Config: (default) ignore_headers_in_manifest = 
+[2022-03-15T00:06:25.297488 13160] Config: (default) ignore_options = 
+[2022-03-15T00:06:25.297488 13160] Config: (default) inode_cache = false
+[2022-03-15T00:06:25.297488 13160] Config: (default) keep_comments_cpp = false
+[2022-03-15T00:06:25.297488 13160] Config: (default) limit_multiple = 0.8
+[2022-03-15T00:06:25.297488 13160] Config: (environment) log_file = /private/var/www/quickscreen/main.build/ccache-13120.txt
+[2022-03-15T00:06:25.297488 13160] Config: (default) max_files = 0
+[2022-03-15T00:06:25.297488 13160] Config: (default) max_size = 5.0G
+[2022-03-15T00:06:25.297488 13160] Config: (default) path = 
+[2022-03-15T00:06:25.297488 13160] Config: (default) pch_external_checksum = false
+[2022-03-15T00:06:25.297488 13160] Config: (default) prefix_command = 
+[2022-03-15T00:06:25.297488 13160] Config: (default) prefix_command_cpp = 
+[2022-03-15T00:06:25.297488 13160] Config: (default) read_only = false
+[2022-03-15T00:06:25.297488 13160] Config: (default) read_only_direct = false
+[2022-03-15T00:06:25.297488 13160] Config: (default) recache = false
+[2022-03-15T00:06:25.297488 13160] Config: (default) run_second_cpp = true
+[2022-03-15T00:06:25.297488 13160] Config: (default) sloppiness = 
+[2022-03-15T00:06:25.297488 13160] Config: (default) stats = true
+[2022-03-15T00:06:25.297488 13160] Config: (default) temporary_dir = /Users/tahid/Library/Caches/Nuitka/ccache/tmp
+[2022-03-15T00:06:25.297488 13160] Config: (default) umask = 
+[2022-03-15T00:06:25.297638 13160] Command line: /Users/tahid/Library/Application Support/Nuitka/ccache/v4.2.1/ccache /usr/bin/clang -o static_src/CompiledGeneratorType.o -c -std=c11 -fvisibility=hidden -fwrapv -pipe -w -fvisibility=hidden -fvisibility-inlines-hidden --target=x86_64-apple-macos10.9 -O3 -D_XOPEN_SOURCE -D__NUITKA_NO_ASSERT__ -D_NUITKA_CONSTANTS_FROM_INCBIN -D_NUITKA_FROZEN=0 -D_NUITKA_EXE -I/Library/Frameworks/Python.framework/Versions/3.9/include/python3.9 -I. -I/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/site-packages/nuitka/build/include -I/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/site-packages/nuitka/build/static_src static_src/CompiledGeneratorType.c
+[2022-03-15T00:06:25.297703 13160] Hostname: Tahids-MBP.broadband
+[2022-03-15T00:06:25.297714 13160] Working directory: /private/var/www/quickscreen/main.build
+[2022-03-15T00:06:25.297722 13160] Compiler type: clang
+[2022-03-15T00:06:25.297906 13160] Source file: static_src/CompiledGeneratorType.c
+[2022-03-15T00:06:25.297985 13160] Object file: static_src/CompiledGeneratorType.o
+[2022-03-15T00:06:25.298086 13160] Trying direct lookup
+[2022-03-15T00:06:25.298295 13160] No manifest with name a005462bufio6k17junt4ic211lnkvprq in the cache
+[2022-03-15T00:06:25.299009 13160] Running preprocessor
+[2022-03-15T00:06:25.299052 13160] Executing /usr/bin/clang -std=c11 -fvisibility=hidden -fwrapv -pipe -w -fvisibility=hidden -fvisibility-inlines-hidden --target=x86_64-apple-macos10.9 -O3 -D_XOPEN_SOURCE -D__NUITKA_NO_ASSERT__ -D_NUITKA_CONSTANTS_FROM_INCBIN -D_NUITKA_FROZEN=0 -D_NUITKA_EXE -I/Library/Frameworks/Python.framework/Versions/3.9/include/python3.9 -I. -I/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/site-packages/nuitka/build/include -I/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/site-packages/nuitka/build/static_src -E static_src/CompiledGeneratorType.c
+[2022-03-15T00:06:25.409554 13140] Got result name from preprocessor
+[2022-03-15T00:06:25.409642 13140] No result with name e131b7laaqtejs3perh0n6fov6rdlpq7q in the cache
+[2022-03-15T00:06:25.410207 13140] Running real compiler
+[2022-03-15T00:06:25.410611 13140] Executing /usr/bin/clang -std=c11 -fvisibility=hidden -fwrapv -pipe -w -fvisibility=hidden -fvisibility-inlines-hidden --target=x86_64-apple-macos10.9 -O3 -D_XOPEN_SOURCE -D__NUITKA_NO_ASSERT__ -D_NUITKA_CONSTANTS_FROM_INCBIN -D_NUITKA_FROZEN=0 -D_NUITKA_EXE -I/Library/Frameworks/Python.framework/Versions/3.9/include/python3.9 -I. -I/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/site-packages/nuitka/build/include -I/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/site-packages/nuitka/build/static_src -c -fcolor-diagnostics -o __loader.o __loader.c
+[2022-03-15T00:06:25.442882 13139] Got result name from preprocessor
+[2022-03-15T00:06:25.442972 13139] No result with name 45d8mjt8u8a55ak4m6gjph27su5jj29hg in the cache
+[2022-03-15T00:06:25.443014 13139] Running real compiler
+[2022-03-15T00:06:25.443361 13139] Executing /usr/bin/clang -std=c11 -fvisibility=hidden -fwrapv -pipe -w -fvisibility=hidden -fvisibility-inlines-hidden --target=x86_64-apple-macos10.9 -O3 -D_XOPEN_SOURCE -D__NUITKA_NO_ASSERT__ -D_NUITKA_CONSTANTS_FROM_INCBIN -D_NUITKA_FROZEN=0 -D_NUITKA_EXE -I/Library/Frameworks/Python.framework/Versions/3.9/include/python3.9 -I. -I/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/site-packages/nuitka/build/include -I/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/site-packages/nuitka/build/static_src -c -fcolor-diagnostics -o __helpers.o __helpers.c
+[2022-03-15T00:06:25.444696 13137] Got result name from preprocessor
+[2022-03-15T00:06:25.444787 13137] No result with name f5adn0jm4hcc8uu3ovefn2o9crn11e8nu in the cache
+[2022-03-15T00:06:25.444828 13137] Running real compiler
+[2022-03-15T00:06:25.445038 13142] Got result name from preprocessor
+[2022-03-15T00:06:25.445108 13142] No result with name e943pv7rbo4u908f3vuhcd3rtbig9enfm in the cache
+[2022-03-15T00:06:25.445155 13142] Running real compiler
+[2022-03-15T00:06:25.445182 13137] Executing /usr/bin/clang -std=c11 -fvisibility=hidden -fwrapv -pipe -w -fvisibility=hidden -fvisibility-inlines-hidden --target=x86_64-apple-macos10.9 -O3 -D_XOPEN_SOURCE -D__NUITKA_NO_ASSERT__ -D_NUITKA_CONSTANTS_FROM_INCBIN -D_NUITKA_FROZEN=0 -D_NUITKA_EXE -I/Library/Frameworks/Python.framework/Versions/3.9/include/python3.9 -I. -I/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/site-packages/nuitka/build/include -I/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/site-packages/nuitka/build/static_src -c -fcolor-diagnostics -o __constants.o __constants.c
+[2022-03-15T00:06:25.445449 13142] Executing /usr/bin/clang -std=c11 -fvisibility=hidden -fwrapv -pipe -w -fvisibility=hidden -fvisibility-inlines-hidden --target=x86_64-apple-macos10.9 -O3 -D_XOPEN_SOURCE -D__NUITKA_NO_ASSERT__ -D_NUITKA_CONSTANTS_FROM_INCBIN -D_NUITKA_FROZEN=0 -D_NUITKA_EXE -I/Library/Frameworks/Python.framework/Versions/3.9/include/python3.9 -I. -I/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/site-packages/nuitka/build/include -I/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/site-packages/nuitka/build/static_src -c -fcolor-diagnostics -o static_src/MainProgram.o static_src/MainProgram.c
+[2022-03-15T00:06:25.445577 13143] Got result name from preprocessor
+[2022-03-15T00:06:25.445647 13143] No result with name 23bcfm94f8m6roqmtel16g9fnur3oojle in the cache
+[2022-03-15T00:06:25.445690 13143] Running real compiler
+[2022-03-15T00:06:25.445993 13143] Executing /usr/bin/clang -std=c11 -fvisibility=hidden -fwrapv -pipe -w -fvisibility=hidden -fvisibility-inlines-hidden --target=x86_64-apple-macos10.9 -O3 -D_XOPEN_SOURCE -D__NUITKA_NO_ASSERT__ -D_NUITKA_CONSTANTS_FROM_INCBIN -D_NUITKA_FROZEN=0 -D_NUITKA_EXE -I/Library/Frameworks/Python.framework/Versions/3.9/include/python3.9 -I. -I/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/site-packages/nuitka/build/include -I/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/site-packages/nuitka/build/static_src -c -fcolor-diagnostics -o static_src/CompiledCellType.o static_src/CompiledCellType.c
+[2022-03-15T00:06:25.493130 13141] Got result name from preprocessor
+[2022-03-15T00:06:25.493218 13141] No result with name 7a64jr9mb2jcv1kge7bp1l9rc25sunlie in the cache
+[2022-03-15T00:06:25.493258 13141] Running real compiler
+[2022-03-15T00:06:25.493582 13141] Executing /usr/bin/clang -std=c11 -fvisibility=hidden -fwrapv -pipe -w -fvisibility=hidden -fvisibility-inlines-hidden --target=x86_64-apple-macos10.9 -O3 -D_XOPEN_SOURCE -D__NUITKA_NO_ASSERT__ -D_NUITKA_CONSTANTS_FROM_INCBIN -D_NUITKA_FROZEN=0 -D_NUITKA_EXE -I/Library/Frameworks/Python.framework/Versions/3.9/include/python3.9 -I. -I/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/site-packages/nuitka/build/include -I/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/site-packages/nuitka/build/static_src -c -fcolor-diagnostics -o module.__main__.o module.__main__.c
+[2022-03-15T00:06:25.505208 13160] Got result name from preprocessor
+[2022-03-15T00:06:25.505301 13160] No result with name cd8djmtesaip2gvipmdid0qeui5dsukk2 in the cache
+[2022-03-15T00:06:25.505346 13160] Running real compiler
+[2022-03-15T00:06:25.505683 13160] Executing /usr/bin/clang -std=c11 -fvisibility=hidden -fwrapv -pipe -w -fvisibility=hidden -fvisibility-inlines-hidden --target=x86_64-apple-macos10.9 -O3 -D_XOPEN_SOURCE -D__NUITKA_NO_ASSERT__ -D_NUITKA_CONSTANTS_FROM_INCBIN -D_NUITKA_FROZEN=0 -D_NUITKA_EXE -I/Library/Frameworks/Python.framework/Versions/3.9/include/python3.9 -I. -I/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/site-packages/nuitka/build/include -I/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/site-packages/nuitka/build/static_src -c -fcolor-diagnostics -o static_src/CompiledGeneratorType.o static_src/CompiledGeneratorType.c
+[2022-03-15T00:06:25.656334 13140] Using default compression level 1
+[2022-03-15T00:06:25.656495 13140] Storing result __loader.o
+[2022-03-15T00:06:25.656527 13140] Storing embedded file #0 .o (1560 bytes) from __loader.o
+[2022-03-15T00:06:25.656941 13140] Stored in cache: /Users/tahid/Library/Caches/Nuitka/ccache/e/1/31b7laaqtejs3perh0n6fov6rdlpq7qR
+[2022-03-15T00:06:25.657248 13140] Adding result name to /Users/tahid/Library/Caches/Nuitka/ccache/f/6/70881akj763r8pmelrakblh099b8g6mM
+[2022-03-15T00:06:25.660563 13140] Using default compression level 1
+[2022-03-15T00:06:25.661581 13140] Result: cache miss
+[2022-03-15T00:06:25.661765 13140] Acquired lock /Users/tahid/Library/Caches/Nuitka/ccache/f/stats.lock
+[2022-03-15T00:06:25.662315 13140] Releasing lock /Users/tahid/Library/Caches/Nuitka/ccache/f/stats.lock
+[2022-03-15T00:06:25.662403 13140] Unlink /Users/tahid/Library/Caches/Nuitka/ccache/f/stats.lock
+[2022-03-15T00:06:25.662521 13140] Acquired lock /Users/tahid/Library/Caches/Nuitka/ccache/e/stats.lock
+[2022-03-15T00:06:25.662915 13140] Releasing lock /Users/tahid/Library/Caches/Nuitka/ccache/e/stats.lock
+[2022-03-15T00:06:25.662998 13140] Unlink /Users/tahid/Library/Caches/Nuitka/ccache/e/stats.lock
+[2022-03-15T00:06:25.663084 13140] Unlink /Users/tahid/Library/Caches/Nuitka/ccache/tmp/tmp.stderr.3RQWrs
+[2022-03-15T00:06:25.663153 13140] Unlink /Users/tahid/Library/Caches/Nuitka/ccache/tmp/tmp.stdout.hKl0XV
+[2022-03-15T00:06:25.663234 13140] Unlink /Users/tahid/Library/Caches/Nuitka/ccache/tmp/tmp.cpp_stderr.6fqxDl
+[2022-03-15T00:06:25.663335 13140] Unlink /Users/tahid/Library/Caches/Nuitka/ccache/tmp/tmp.cpp_stdout.a6PeAj.i
+[2022-03-15T00:06:25.666281 13140] Unlink /Users/tahid/Library/Caches/Nuitka/ccache/tmp/tmp.cpp_stdout.a6PeAj
+[2022-03-15T00:06:25.694642 13139] Using default compression level 1
+[2022-03-15T00:06:25.694823 13139] Storing result __helpers.o
+[2022-03-15T00:06:25.694861 13139] Storing embedded file #0 .o (200 bytes) from __helpers.o
+[2022-03-15T00:06:25.695285 13139] Stored in cache: /Users/tahid/Library/Caches/Nuitka/ccache/4/5/d8mjt8u8a55ak4m6gjph27su5jj29hgR
+[2022-03-15T00:06:25.695608 13139] Adding result name to /Users/tahid/Library/Caches/Nuitka/ccache/9/9/7e2haiggco6d2kbpd1q5fpgq42vg1kcM
+[2022-03-15T00:06:25.699700 13139] Using default compression level 1
+[2022-03-15T00:06:25.701913 13139] Result: cache miss
+[2022-03-15T00:06:25.702090 13139] Acquired lock /Users/tahid/Library/Caches/Nuitka/ccache/9/stats.lock
+[2022-03-15T00:06:25.702128 13181] === CCACHE master.971f1183 STARTED =========================================
+[2022-03-15T00:06:25.702128 13181] Config: (default) absolute_paths_in_stderr = false
+[2022-03-15T00:06:25.702128 13181] Config: (default) base_dir = 
+[2022-03-15T00:06:25.702128 13181] Config: (environment) cache_dir = /Users/tahid/Library/Caches/Nuitka/ccache
+[2022-03-15T00:06:25.702128 13181] Config: (default) compiler = 
+[2022-03-15T00:06:25.702128 13181] Config: (default) compiler_check = mtime
+[2022-03-15T00:06:25.702128 13181] Config: (default) compiler_type = auto
+[2022-03-15T00:06:25.702128 13181] Config: (default) compression = true
+[2022-03-15T00:06:25.702128 13181] Config: (default) compression_level = 0
+[2022-03-15T00:06:25.702128 13181] Config: (default) cpp_extension = 
+[2022-03-15T00:06:25.702128 13181] Config: (default) debug = false
+[2022-03-15T00:06:25.702128 13181] Config: (default) debug_dir = 
+[2022-03-15T00:06:25.702128 13181] Config: (default) depend_mode = false
+[2022-03-15T00:06:25.702128 13181] Config: (default) direct_mode = true
+[2022-03-15T00:06:25.702128 13181] Config: (default) disable = false
+[2022-03-15T00:06:25.702128 13181] Config: (default) extra_files_to_hash = 
+[2022-03-15T00:06:25.702128 13181] Config: (default) file_clone = false
+[2022-03-15T00:06:25.702128 13181] Config: (default) hard_link = false
+[2022-03-15T00:06:25.702128 13181] Config: (default) hash_dir = true
+[2022-03-15T00:06:25.702128 13181] Config: (default) ignore_headers_in_manifest = 
+[2022-03-15T00:06:25.702128 13181] Config: (default) ignore_options = 
+[2022-03-15T00:06:25.702128 13181] Config: (default) inode_cache = false
+[2022-03-15T00:06:25.702128 13181] Config: (default) keep_comments_cpp = false
+[2022-03-15T00:06:25.702128 13181] Config: (default) limit_multiple = 0.8
+[2022-03-15T00:06:25.702128 13181] Config: (environment) log_file = /private/var/www/quickscreen/main.build/ccache-13120.txt
+[2022-03-15T00:06:25.702128 13181] Config: (default) max_files = 0
+[2022-03-15T00:06:25.702128 13181] Config: (default) max_size = 5.0G
+[2022-03-15T00:06:25.702128 13181] Config: (default) path = 
+[2022-03-15T00:06:25.702128 13181] Config: (default) pch_external_checksum = false
+[2022-03-15T00:06:25.702128 13181] Config: (default) prefix_command = 
+[2022-03-15T00:06:25.702128 13181] Config: (default) prefix_command_cpp = 
+[2022-03-15T00:06:25.702128 13181] Config: (default) read_only = false
+[2022-03-15T00:06:25.702128 13181] Config: (default) read_only_direct = false
+[2022-03-15T00:06:25.702128 13181] Config: (default) recache = false
+[2022-03-15T00:06:25.702128 13181] Config: (default) run_second_cpp = true
+[2022-03-15T00:06:25.702128 13181] Config: (default) sloppiness = 
+[2022-03-15T00:06:25.702128 13181] Config: (default) stats = true
+[2022-03-15T00:06:25.702128 13181] Config: (default) temporary_dir = /Users/tahid/Library/Caches/Nuitka/ccache/tmp
+[2022-03-15T00:06:25.702128 13181] Config: (default) umask = 
+[2022-03-15T00:06:25.702324 13181] Command line: /Users/tahid/Library/Application Support/Nuitka/ccache/v4.2.1/ccache /usr/bin/clang -o static_src/InspectPatcher.o -c -std=c11 -fvisibility=hidden -fwrapv -pipe -w -fvisibility=hidden -fvisibility-inlines-hidden --target=x86_64-apple-macos10.9 -O3 -D_XOPEN_SOURCE -D__NUITKA_NO_ASSERT__ -D_NUITKA_CONSTANTS_FROM_INCBIN -D_NUITKA_FROZEN=0 -D_NUITKA_EXE -I/Library/Frameworks/Python.framework/Versions/3.9/include/python3.9 -I. -I/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/site-packages/nuitka/build/include -I/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/site-packages/nuitka/build/static_src static_src/InspectPatcher.c
+[2022-03-15T00:06:25.702418 13181] Hostname: Tahids-MBP.broadband
+[2022-03-15T00:06:25.702439 13181] Working directory: /private/var/www/quickscreen/main.build
+[2022-03-15T00:06:25.702457 13181] Compiler type: clang
+[2022-03-15T00:06:25.702648 13139] Releasing lock /Users/tahid/Library/Caches/Nuitka/ccache/9/stats.lock
+[2022-03-15T00:06:25.702654 13181] Source file: static_src/InspectPatcher.c
+[2022-03-15T00:06:25.702685 13181] Object file: static_src/InspectPatcher.o
+[2022-03-15T00:06:25.702733 13139] Unlink /Users/tahid/Library/Caches/Nuitka/ccache/9/stats.lock
+[2022-03-15T00:06:25.702745 13181] Trying direct lookup
+[2022-03-15T00:06:25.702848 13139] Acquired lock /Users/tahid/Library/Caches/Nuitka/ccache/4/stats.lock
+[2022-03-15T00:06:25.702955 13181] No manifest with name e88dfb1u97qh729csi8gp27l4ftd3qvoq in the cache
+[2022-03-15T00:06:25.703258 13139] Releasing lock /Users/tahid/Library/Caches/Nuitka/ccache/4/stats.lock
+[2022-03-15T00:06:25.703342 13139] Unlink /Users/tahid/Library/Caches/Nuitka/ccache/4/stats.lock
+[2022-03-15T00:06:25.703421 13139] Unlink /Users/tahid/Library/Caches/Nuitka/ccache/tmp/tmp.stderr.M9KPqu
+[2022-03-15T00:06:25.703490 13139] Unlink /Users/tahid/Library/Caches/Nuitka/ccache/tmp/tmp.stdout.2spzUT
+[2022-03-15T00:06:25.703558 13139] Unlink /Users/tahid/Library/Caches/Nuitka/ccache/tmp/tmp.cpp_stderr.3NBSOn
+[2022-03-15T00:06:25.703703 13139] Unlink /Users/tahid/Library/Caches/Nuitka/ccache/tmp/tmp.cpp_stdout.gyA6BU.i
+[2022-03-15T00:06:25.703811 13181] Running preprocessor
+[2022-03-15T00:06:25.703848 13181] Executing /usr/bin/clang -std=c11 -fvisibility=hidden -fwrapv -pipe -w -fvisibility=hidden -fvisibility-inlines-hidden --target=x86_64-apple-macos10.9 -O3 -D_XOPEN_SOURCE -D__NUITKA_NO_ASSERT__ -D_NUITKA_CONSTANTS_FROM_INCBIN -D_NUITKA_FROZEN=0 -D_NUITKA_EXE -I/Library/Frameworks/Python.framework/Versions/3.9/include/python3.9 -I. -I/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/site-packages/nuitka/build/include -I/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/site-packages/nuitka/build/static_src -E static_src/InspectPatcher.c
+[2022-03-15T00:06:25.707877 13139] Unlink /Users/tahid/Library/Caches/Nuitka/ccache/tmp/tmp.cpp_stdout.gyA6BU
+[2022-03-15T00:06:25.722074 13137] Using default compression level 1
+[2022-03-15T00:06:25.722249 13137] Storing result __constants.o
+[2022-03-15T00:06:25.722282 13137] Storing embedded file #0 .o (2920 bytes) from __constants.o
+[2022-03-15T00:06:25.722707 13137] Stored in cache: /Users/tahid/Library/Caches/Nuitka/ccache/f/5/adn0jm4hcc8uu3ovefn2o9crn11e8nuR
+[2022-03-15T00:06:25.723072 13137] Adding result name to /Users/tahid/Library/Caches/Nuitka/ccache/d/9/f0kdshuupl881l196s62nhjbr89jdbgM
+[2022-03-15T00:06:25.726967 13137] Using default compression level 1
+[2022-03-15T00:06:25.729365 13137] Result: cache miss
+[2022-03-15T00:06:25.729558 13137] Acquired lock /Users/tahid/Library/Caches/Nuitka/ccache/d/stats.lock
+[2022-03-15T00:06:25.730088 13137] Releasing lock /Users/tahid/Library/Caches/Nuitka/ccache/d/stats.lock
+[2022-03-15T00:06:25.730164 13137] Unlink /Users/tahid/Library/Caches/Nuitka/ccache/d/stats.lock
+[2022-03-15T00:06:25.730272 13137] Acquired lock /Users/tahid/Library/Caches/Nuitka/ccache/f/stats.lock
+[2022-03-15T00:06:25.731050 13137] Releasing lock /Users/tahid/Library/Caches/Nuitka/ccache/f/stats.lock
+[2022-03-15T00:06:25.731144 13137] Unlink /Users/tahid/Library/Caches/Nuitka/ccache/f/stats.lock
+[2022-03-15T00:06:25.731223 13137] Unlink /Users/tahid/Library/Caches/Nuitka/ccache/tmp/tmp.stderr.D359VV
+[2022-03-15T00:06:25.731291 13137] Unlink /Users/tahid/Library/Caches/Nuitka/ccache/tmp/tmp.stdout.rCYwpP
+[2022-03-15T00:06:25.731368 13137] Unlink /Users/tahid/Library/Caches/Nuitka/ccache/tmp/tmp.cpp_stderr.UHxxJk
+[2022-03-15T00:06:25.731481 13137] Unlink /Users/tahid/Library/Caches/Nuitka/ccache/tmp/tmp.cpp_stdout.SyqUqb.i
+[2022-03-15T00:06:25.735748 13137] Unlink /Users/tahid/Library/Caches/Nuitka/ccache/tmp/tmp.cpp_stdout.SyqUqb
+[2022-03-15T00:06:25.736706 13183] === CCACHE master.971f1183 STARTED =========================================
+[2022-03-15T00:06:25.736706 13183] Config: (default) absolute_paths_in_stderr = false
+[2022-03-15T00:06:25.736706 13183] Config: (default) base_dir = 
+[2022-03-15T00:06:25.736706 13183] Config: (environment) cache_dir = /Users/tahid/Library/Caches/Nuitka/ccache
+[2022-03-15T00:06:25.736706 13183] Config: (default) compiler = 
+[2022-03-15T00:06:25.736706 13183] Config: (default) compiler_check = mtime
+[2022-03-15T00:06:25.736706 13183] Config: (default) compiler_type = auto
+[2022-03-15T00:06:25.736706 13183] Config: (default) compression = true
+[2022-03-15T00:06:25.736706 13183] Config: (default) compression_level = 0
+[2022-03-15T00:06:25.736706 13183] Config: (default) cpp_extension = 
+[2022-03-15T00:06:25.736706 13183] Config: (default) debug = false
+[2022-03-15T00:06:25.736706 13183] Config: (default) debug_dir = 
+[2022-03-15T00:06:25.736706 13183] Config: (default) depend_mode = false
+[2022-03-15T00:06:25.736706 13183] Config: (default) direct_mode = true
+[2022-03-15T00:06:25.736706 13183] Config: (default) disable = false
+[2022-03-15T00:06:25.736706 13183] Config: (default) extra_files_to_hash = 
+[2022-03-15T00:06:25.736706 13183] Config: (default) file_clone = false
+[2022-03-15T00:06:25.736706 13183] Config: (default) hard_link = false
+[2022-03-15T00:06:25.736706 13183] Config: (default) hash_dir = true
+[2022-03-15T00:06:25.736706 13183] Config: (default) ignore_headers_in_manifest = 
+[2022-03-15T00:06:25.736706 13183] Config: (default) ignore_options = 
+[2022-03-15T00:06:25.736706 13183] Config: (default) inode_cache = false
+[2022-03-15T00:06:25.736706 13183] Config: (default) keep_comments_cpp = false
+[2022-03-15T00:06:25.736706 13183] Config: (default) limit_multiple = 0.8
+[2022-03-15T00:06:25.736706 13183] Config: (environment) log_file = /private/var/www/quickscreen/main.build/ccache-13120.txt
+[2022-03-15T00:06:25.736706 13183] Config: (default) max_files = 0
+[2022-03-15T00:06:25.736706 13183] Config: (default) max_size = 5.0G
+[2022-03-15T00:06:25.736706 13183] Config: (default) path = 
+[2022-03-15T00:06:25.736706 13183] Config: (default) pch_external_checksum = false
+[2022-03-15T00:06:25.736706 13183] Config: (default) prefix_command = 
+[2022-03-15T00:06:25.736706 13183] Config: (default) prefix_command_cpp = 
+[2022-03-15T00:06:25.736706 13183] Config: (default) read_only = false
+[2022-03-15T00:06:25.736706 13183] Config: (default) read_only_direct = false
+[2022-03-15T00:06:25.736706 13183] Config: (default) recache = false
+[2022-03-15T00:06:25.736706 13183] Config: (default) run_second_cpp = true
+[2022-03-15T00:06:25.736706 13183] Config: (default) sloppiness = 
+[2022-03-15T00:06:25.736706 13183] Config: (default) stats = true
+[2022-03-15T00:06:25.736706 13183] Config: (default) temporary_dir = /Users/tahid/Library/Caches/Nuitka/ccache/tmp
+[2022-03-15T00:06:25.736706 13183] Config: (default) umask = 
+[2022-03-15T00:06:25.736927 13183] Command line: /Users/tahid/Library/Application Support/Nuitka/ccache/v4.2.1/ccache /usr/bin/clang -o static_src/MetaPathBasedLoader.o -c -std=c11 -fvisibility=hidden -fwrapv -pipe -w -fvisibility=hidden -fvisibility-inlines-hidden --target=x86_64-apple-macos10.9 -O3 -D_XOPEN_SOURCE -D__NUITKA_NO_ASSERT__ -D_NUITKA_CONSTANTS_FROM_INCBIN -D_NUITKA_FROZEN=0 -D_NUITKA_EXE -I/Library/Frameworks/Python.framework/Versions/3.9/include/python3.9 -I. -I/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/site-packages/nuitka/build/include -I/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/site-packages/nuitka/build/static_src static_src/MetaPathBasedLoader.c
+[2022-03-15T00:06:25.737277 13183] Hostname: Tahids-MBP.broadband
+[2022-03-15T00:06:25.737301 13183] Working directory: /private/var/www/quickscreen/main.build
+[2022-03-15T00:06:25.737316 13183] Compiler type: clang
+[2022-03-15T00:06:25.737526 13183] Source file: static_src/MetaPathBasedLoader.c
+[2022-03-15T00:06:25.737610 13183] Object file: static_src/MetaPathBasedLoader.o
+[2022-03-15T00:06:25.737674 13183] Trying direct lookup
+[2022-03-15T00:06:25.737967 13183] No manifest with name 2f0842ouf17hflggqnfjfaagm5q386tga in the cache
+[2022-03-15T00:06:25.738786 13183] Running preprocessor
+[2022-03-15T00:06:25.738845 13183] Executing /usr/bin/clang -std=c11 -fvisibility=hidden -fwrapv -pipe -w -fvisibility=hidden -fvisibility-inlines-hidden --target=x86_64-apple-macos10.9 -O3 -D_XOPEN_SOURCE -D__NUITKA_NO_ASSERT__ -D_NUITKA_CONSTANTS_FROM_INCBIN -D_NUITKA_FROZEN=0 -D_NUITKA_EXE -I/Library/Frameworks/Python.framework/Versions/3.9/include/python3.9 -I. -I/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/site-packages/nuitka/build/include -I/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/site-packages/nuitka/build/static_src -E static_src/MetaPathBasedLoader.c
+[2022-03-15T00:06:25.756976 13142] Using default compression level 1
+[2022-03-15T00:06:25.757127 13142] Storing result static_src/MainProgram.o
+[2022-03-15T00:06:25.757158 13142] Storing embedded file #0 .o (5728 bytes) from static_src/MainProgram.o
+[2022-03-15T00:06:25.757746 13142] Stored in cache: /Users/tahid/Library/Caches/Nuitka/ccache/e/9/43pv7rbo4u908f3vuhcd3rtbig9enfmR
+[2022-03-15T00:06:25.757890 13142] Adding result name to /Users/tahid/Library/Caches/Nuitka/ccache/d/a/a1nmu9fev6ui61q080v23q3bnmi08n0M
+[2022-03-15T00:06:25.758759 13143] Using default compression level 1
+[2022-03-15T00:06:25.758908 13143] Storing result static_src/CompiledCellType.o
+[2022-03-15T00:06:25.758936 13143] Storing embedded file #0 .o (5192 bytes) from static_src/CompiledCellType.o
+[2022-03-15T00:06:25.759381 13143] Stored in cache: /Users/tahid/Library/Caches/Nuitka/ccache/2/3/bcfm94f8m6roqmtel16g9fnur3oojleR
+[2022-03-15T00:06:25.759701 13143] Adding result name to /Users/tahid/Library/Caches/Nuitka/ccache/4/a/7aa7f4d5pi62vdtoov73j9veoemv1goM
+[2022-03-15T00:06:25.761813 13142] Using default compression level 1
+[2022-03-15T00:06:25.763196 13142] Result: cache miss
+[2022-03-15T00:06:25.763382 13142] Acquired lock /Users/tahid/Library/Caches/Nuitka/ccache/d/stats.lock
+[2022-03-15T00:06:25.763391 13143] Using default compression level 1
+[2022-03-15T00:06:25.763862 13142] Releasing lock /Users/tahid/Library/Caches/Nuitka/ccache/d/stats.lock
+[2022-03-15T00:06:25.763934 13142] Unlink /Users/tahid/Library/Caches/Nuitka/ccache/d/stats.lock
+[2022-03-15T00:06:25.764062 13142] Acquired lock /Users/tahid/Library/Caches/Nuitka/ccache/e/stats.lock
+[2022-03-15T00:06:25.764564 13143] Result: cache miss
+[2022-03-15T00:06:25.764593 13142] Releasing lock /Users/tahid/Library/Caches/Nuitka/ccache/e/stats.lock
+[2022-03-15T00:06:25.764670 13142] Unlink /Users/tahid/Library/Caches/Nuitka/ccache/e/stats.lock
+[2022-03-15T00:06:25.764805 13142] Unlink /Users/tahid/Library/Caches/Nuitka/ccache/tmp/tmp.stderr.L9ONLR
+[2022-03-15T00:06:25.764811 13143] Acquired lock /Users/tahid/Library/Caches/Nuitka/ccache/4/stats.lock
+[2022-03-15T00:06:25.764869 13142] Unlink /Users/tahid/Library/Caches/Nuitka/ccache/tmp/tmp.stdout.9MaPW7
+[2022-03-15T00:06:25.764982 13142] Unlink /Users/tahid/Library/Caches/Nuitka/ccache/tmp/tmp.cpp_stderr.5e3wd9
+[2022-03-15T00:06:25.765163 13142] Unlink /Users/tahid/Library/Caches/Nuitka/ccache/tmp/tmp.cpp_stdout.OW79Jy.i
+[2022-03-15T00:06:25.765456 13143] Releasing lock /Users/tahid/Library/Caches/Nuitka/ccache/4/stats.lock
+[2022-03-15T00:06:25.765539 13143] Unlink /Users/tahid/Library/Caches/Nuitka/ccache/4/stats.lock
+[2022-03-15T00:06:25.765664 13143] Acquired lock /Users/tahid/Library/Caches/Nuitka/ccache/2/stats.lock
+[2022-03-15T00:06:25.766325 13143] Releasing lock /Users/tahid/Library/Caches/Nuitka/ccache/2/stats.lock
+[2022-03-15T00:06:25.766416 13143] Unlink /Users/tahid/Library/Caches/Nuitka/ccache/2/stats.lock
+[2022-03-15T00:06:25.769884 13142] Unlink /Users/tahid/Library/Caches/Nuitka/ccache/tmp/tmp.cpp_stdout.OW79Jy
+[2022-03-15T00:06:25.769994 13143] Unlink /Users/tahid/Library/Caches/Nuitka/ccache/tmp/tmp.stderr.mOkU1Z
+[2022-03-15T00:06:25.770078 13143] Unlink /Users/tahid/Library/Caches/Nuitka/ccache/tmp/tmp.stdout.WsI7o9
+[2022-03-15T00:06:25.770146 13143] Unlink /Users/tahid/Library/Caches/Nuitka/ccache/tmp/tmp.cpp_stderr.mXcyUS
+[2022-03-15T00:06:25.770403 13143] Unlink /Users/tahid/Library/Caches/Nuitka/ccache/tmp/tmp.cpp_stdout.YLz4y0.i
+[2022-03-15T00:06:25.774220 13143] Unlink /Users/tahid/Library/Caches/Nuitka/ccache/tmp/tmp.cpp_stdout.YLz4y0
+[2022-03-15T00:06:25.811198 13150] Got result name from preprocessor
+[2022-03-15T00:06:25.811311 13150] No result with name 2978vorf5eb6lq2r3erp50cmln23ade9g in the cache
+[2022-03-15T00:06:25.811356 13150] Running real compiler
+[2022-03-15T00:06:25.811673 13150] Executing /usr/bin/clang -std=c11 -fvisibility=hidden -fwrapv -pipe -w -fvisibility=hidden -fvisibility-inlines-hidden --target=x86_64-apple-macos10.9 -O3 -D_XOPEN_SOURCE -D__NUITKA_NO_ASSERT__ -D_NUITKA_CONSTANTS_FROM_INCBIN -D_NUITKA_FROZEN=0 -D_NUITKA_EXE -I/Library/Frameworks/Python.framework/Versions/3.9/include/python3.9 -I. -I/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/site-packages/nuitka/build/include -I/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/site-packages/nuitka/build/static_src -c -fcolor-diagnostics -o static_src/CompiledFunctionType.o static_src/CompiledFunctionType.c
+[2022-03-15T00:06:25.863500 13181] Got result name from preprocessor
+[2022-03-15T00:06:25.863564 13181] No result with name 29b2kg63p7bbo0jefu65030sjvv6tglge in the cache
+[2022-03-15T00:06:25.863596 13181] Running real compiler
+[2022-03-15T00:06:25.863854 13181] Executing /usr/bin/clang -std=c11 -fvisibility=hidden -fwrapv -pipe -w -fvisibility=hidden -fvisibility-inlines-hidden --target=x86_64-apple-macos10.9 -O3 -D_XOPEN_SOURCE -D__NUITKA_NO_ASSERT__ -D_NUITKA_CONSTANTS_FROM_INCBIN -D_NUITKA_FROZEN=0 -D_NUITKA_EXE -I/Library/Frameworks/Python.framework/Versions/3.9/include/python3.9 -I. -I/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/site-packages/nuitka/build/include -I/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/site-packages/nuitka/build/static_src -c -fcolor-diagnostics -o static_src/InspectPatcher.o static_src/InspectPatcher.c
+[2022-03-15T00:06:25.878820 13183] Got result name from preprocessor
+[2022-03-15T00:06:25.878920 13183] No result with name afa0rirg7luklvlvju3a8e4ceav6opuca in the cache
+[2022-03-15T00:06:25.878961 13183] Running real compiler
+[2022-03-15T00:06:25.879260 13183] Executing /usr/bin/clang -std=c11 -fvisibility=hidden -fwrapv -pipe -w -fvisibility=hidden -fvisibility-inlines-hidden --target=x86_64-apple-macos10.9 -O3 -D_XOPEN_SOURCE -D__NUITKA_NO_ASSERT__ -D_NUITKA_CONSTANTS_FROM_INCBIN -D_NUITKA_FROZEN=0 -D_NUITKA_EXE -I/Library/Frameworks/Python.framework/Versions/3.9/include/python3.9 -I. -I/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/site-packages/nuitka/build/include -I/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/site-packages/nuitka/build/static_src -c -fcolor-diagnostics -o static_src/MetaPathBasedLoader.o static_src/MetaPathBasedLoader.c
+[2022-03-15T00:06:26.069219 13181] Using default compression level 1
+[2022-03-15T00:06:26.069377 13181] Storing result static_src/InspectPatcher.o
+[2022-03-15T00:06:26.069403 13181] Storing embedded file #0 .o (7348 bytes) from static_src/InspectPatcher.o
+[2022-03-15T00:06:26.069873 13181] Stored in cache: /Users/tahid/Library/Caches/Nuitka/ccache/2/9/b2kg63p7bbo0jefu65030sjvv6tglgeR
+[2022-03-15T00:06:26.070001 13181] Adding result name to /Users/tahid/Library/Caches/Nuitka/ccache/e/8/8dfb1u97qh729csi8gp27l4ftd3qvoqM
+[2022-03-15T00:06:26.072537 13181] Using default compression level 1
+[2022-03-15T00:06:26.073252 13181] Result: cache miss
+[2022-03-15T00:06:26.073382 13181] Acquired lock /Users/tahid/Library/Caches/Nuitka/ccache/e/stats.lock
+[2022-03-15T00:06:26.073774 13181] Releasing lock /Users/tahid/Library/Caches/Nuitka/ccache/e/stats.lock
+[2022-03-15T00:06:26.073860 13181] Unlink /Users/tahid/Library/Caches/Nuitka/ccache/e/stats.lock
+[2022-03-15T00:06:26.073980 13181] Acquired lock /Users/tahid/Library/Caches/Nuitka/ccache/2/stats.lock
+[2022-03-15T00:06:26.074501 13181] Releasing lock /Users/tahid/Library/Caches/Nuitka/ccache/2/stats.lock
+[2022-03-15T00:06:26.074583 13181] Unlink /Users/tahid/Library/Caches/Nuitka/ccache/2/stats.lock
+[2022-03-15T00:06:26.074664 13181] Unlink /Users/tahid/Library/Caches/Nuitka/ccache/tmp/tmp.stderr.JbmNLV
+[2022-03-15T00:06:26.074734 13181] Unlink /Users/tahid/Library/Caches/Nuitka/ccache/tmp/tmp.stdout.EmiWPT
+[2022-03-15T00:06:26.074804 13181] Unlink /Users/tahid/Library/Caches/Nuitka/ccache/tmp/tmp.cpp_stderr.3jxxdF
+[2022-03-15T00:06:26.074906 13181] Unlink /Users/tahid/Library/Caches/Nuitka/ccache/tmp/tmp.cpp_stdout.lsThNq.i
+[2022-03-15T00:06:26.078512 13181] Unlink /Users/tahid/Library/Caches/Nuitka/ccache/tmp/tmp.cpp_stdout.lsThNq
+[2022-03-15T00:06:26.252977 13183] Using default compression level 1
+[2022-03-15T00:06:26.253116 13183] Storing result static_src/MetaPathBasedLoader.o
+[2022-03-15T00:06:26.253137 13183] Storing embedded file #0 .o (21972 bytes) from static_src/MetaPathBasedLoader.o
+[2022-03-15T00:06:26.253672 13183] Stored in cache: /Users/tahid/Library/Caches/Nuitka/ccache/a/f/a0rirg7luklvlvju3a8e4ceav6opucaR
+[2022-03-15T00:06:26.253894 13183] Adding result name to /Users/tahid/Library/Caches/Nuitka/ccache/2/f/0842ouf17hflggqnfjfaagm5q386tgaM
+[2022-03-15T00:06:26.256315 13183] Using default compression level 1
+[2022-03-15T00:06:26.257031 13183] Result: cache miss
+[2022-03-15T00:06:26.257166 13183] Acquired lock /Users/tahid/Library/Caches/Nuitka/ccache/2/stats.lock
+[2022-03-15T00:06:26.257775 13183] Releasing lock /Users/tahid/Library/Caches/Nuitka/ccache/2/stats.lock
+[2022-03-15T00:06:26.257855 13183] Unlink /Users/tahid/Library/Caches/Nuitka/ccache/2/stats.lock
+[2022-03-15T00:06:26.257944 13183] Acquired lock /Users/tahid/Library/Caches/Nuitka/ccache/a/stats.lock
+[2022-03-15T00:06:26.258345 13183] Releasing lock /Users/tahid/Library/Caches/Nuitka/ccache/a/stats.lock
+[2022-03-15T00:06:26.258400 13183] Unlink /Users/tahid/Library/Caches/Nuitka/ccache/a/stats.lock
+[2022-03-15T00:06:26.258451 13183] Unlink /Users/tahid/Library/Caches/Nuitka/ccache/tmp/tmp.stderr.jHUMHg
+[2022-03-15T00:06:26.258494 13183] Unlink /Users/tahid/Library/Caches/Nuitka/ccache/tmp/tmp.stdout.SnxTfW
+[2022-03-15T00:06:26.258540 13183] Unlink /Users/tahid/Library/Caches/Nuitka/ccache/tmp/tmp.cpp_stderr.nOAlxT
+[2022-03-15T00:06:26.258610 13183] Unlink /Users/tahid/Library/Caches/Nuitka/ccache/tmp/tmp.cpp_stdout.3aw12a.i
+[2022-03-15T00:06:26.260885 13183] Unlink /Users/tahid/Library/Caches/Nuitka/ccache/tmp/tmp.cpp_stdout.3aw12a
+[2022-03-15T00:06:26.716388 13160] Using default compression level 1
+[2022-03-15T00:06:26.716538 13160] Storing result static_src/CompiledGeneratorType.o
+[2022-03-15T00:06:26.716558 13160] Storing embedded file #0 .o (84940 bytes) from static_src/CompiledGeneratorType.o
+[2022-03-15T00:06:26.717694 13160] Stored in cache: /Users/tahid/Library/Caches/Nuitka/ccache/c/d/8djmtesaip2gvipmdid0qeui5dsukk2R
+[2022-03-15T00:06:26.717928 13160] Adding result name to /Users/tahid/Library/Caches/Nuitka/ccache/a/0/05462bufio6k17junt4ic211lnkvprqM
+[2022-03-15T00:06:26.720342 13160] Using default compression level 1
+[2022-03-15T00:06:26.721067 13160] Result: cache miss
+[2022-03-15T00:06:26.721242 13160] Acquired lock /Users/tahid/Library/Caches/Nuitka/ccache/a/stats.lock
+[2022-03-15T00:06:26.721630 13160] Releasing lock /Users/tahid/Library/Caches/Nuitka/ccache/a/stats.lock
+[2022-03-15T00:06:26.721683 13160] Unlink /Users/tahid/Library/Caches/Nuitka/ccache/a/stats.lock
+[2022-03-15T00:06:26.721754 13160] Acquired lock /Users/tahid/Library/Caches/Nuitka/ccache/c/stats.lock
+[2022-03-15T00:06:26.722115 13160] Releasing lock /Users/tahid/Library/Caches/Nuitka/ccache/c/stats.lock
+[2022-03-15T00:06:26.722164 13160] Unlink /Users/tahid/Library/Caches/Nuitka/ccache/c/stats.lock
+[2022-03-15T00:06:26.722216 13160] Unlink /Users/tahid/Library/Caches/Nuitka/ccache/tmp/tmp.stderr.vluzje
+[2022-03-15T00:06:26.722258 13160] Unlink /Users/tahid/Library/Caches/Nuitka/ccache/tmp/tmp.stdout.33xSP7
+[2022-03-15T00:06:26.722300 13160] Unlink /Users/tahid/Library/Caches/Nuitka/ccache/tmp/tmp.cpp_stderr.I36sLQ
+[2022-03-15T00:06:26.722370 13160] Unlink /Users/tahid/Library/Caches/Nuitka/ccache/tmp/tmp.cpp_stdout.oqEThh.i
+[2022-03-15T00:06:26.725144 13160] Unlink /Users/tahid/Library/Caches/Nuitka/ccache/tmp/tmp.cpp_stdout.oqEThh
+[2022-03-15T00:06:28.384121 13141] Using default compression level 1
+[2022-03-15T00:06:28.384259 13141] Storing result module.__main__.o
+[2022-03-15T00:06:28.384278 13141] Storing embedded file #0 .o (151232 bytes) from module.__main__.o
+[2022-03-15T00:06:28.385633 13141] Stored in cache: /Users/tahid/Library/Caches/Nuitka/ccache/7/a/64jr9mb2jcv1kge7bp1l9rc25sunlieR
+[2022-03-15T00:06:28.385883 13141] Adding result name to /Users/tahid/Library/Caches/Nuitka/ccache/8/a/1dieh1eg337k9oc1bnm8r4eeajtulaiM
+[2022-03-15T00:06:28.388509 13141] Using default compression level 1
+[2022-03-15T00:06:28.389204 13141] Result: cache miss
+[2022-03-15T00:06:28.389334 13141] Acquired lock /Users/tahid/Library/Caches/Nuitka/ccache/8/stats.lock
+[2022-03-15T00:06:28.389692 13141] Releasing lock /Users/tahid/Library/Caches/Nuitka/ccache/8/stats.lock
+[2022-03-15T00:06:28.389785 13141] Unlink /Users/tahid/Library/Caches/Nuitka/ccache/8/stats.lock
+[2022-03-15T00:06:28.389854 13141] Acquired lock /Users/tahid/Library/Caches/Nuitka/ccache/7/stats.lock
+[2022-03-15T00:06:28.390076 13141] Releasing lock /Users/tahid/Library/Caches/Nuitka/ccache/7/stats.lock
+[2022-03-15T00:06:28.390164 13141] Unlink /Users/tahid/Library/Caches/Nuitka/ccache/7/stats.lock
+[2022-03-15T00:06:28.390223 13141] Unlink /Users/tahid/Library/Caches/Nuitka/ccache/tmp/tmp.stderr.fphHZY
+[2022-03-15T00:06:28.390269 13141] Unlink /Users/tahid/Library/Caches/Nuitka/ccache/tmp/tmp.stdout.56E1tt
+[2022-03-15T00:06:28.390342 13141] Unlink /Users/tahid/Library/Caches/Nuitka/ccache/tmp/tmp.cpp_stderr.sN95SF
+[2022-03-15T00:06:28.390413 13141] Unlink /Users/tahid/Library/Caches/Nuitka/ccache/tmp/tmp.cpp_stdout.Nkr4hU.i
+[2022-03-15T00:06:28.394405 13141] Unlink /Users/tahid/Library/Caches/Nuitka/ccache/tmp/tmp.cpp_stdout.Nkr4hU
+[2022-03-15T00:06:36.262333 13150] Using default compression level 1
+[2022-03-15T00:06:36.262472 13150] Storing result static_src/CompiledFunctionType.o
+[2022-03-15T00:06:36.262492 13150] Storing embedded file #0 .o (854996 bytes) from static_src/CompiledFunctionType.o
+[2022-03-15T00:06:36.267537 13150] Stored in cache: /Users/tahid/Library/Caches/Nuitka/ccache/2/9/78vorf5eb6lq2r3erp50cmln23ade9gR
+[2022-03-15T00:06:36.267624 13150] Adding result name to /Users/tahid/Library/Caches/Nuitka/ccache/2/4/44tetjb14b5nfm9qi40bgdlq7ivtb8iM
+[2022-03-15T00:06:36.270472 13150] Using default compression level 1
+[2022-03-15T00:06:36.271196 13150] Result: cache miss
+[2022-03-15T00:06:36.271333 13150] Acquired lock /Users/tahid/Library/Caches/Nuitka/ccache/2/stats.lock
+[2022-03-15T00:06:36.271701 13150] Releasing lock /Users/tahid/Library/Caches/Nuitka/ccache/2/stats.lock
+[2022-03-15T00:06:36.271747 13150] Unlink /Users/tahid/Library/Caches/Nuitka/ccache/2/stats.lock
+[2022-03-15T00:06:36.271810 13150] Acquired lock /Users/tahid/Library/Caches/Nuitka/ccache/2/stats.lock
+[2022-03-15T00:06:36.272249 13150] Releasing lock /Users/tahid/Library/Caches/Nuitka/ccache/2/stats.lock
+[2022-03-15T00:06:36.272307 13150] Unlink /Users/tahid/Library/Caches/Nuitka/ccache/2/stats.lock
+[2022-03-15T00:06:36.272358 13150] Unlink /Users/tahid/Library/Caches/Nuitka/ccache/tmp/tmp.stderr.31WgjV
+[2022-03-15T00:06:36.272410 13150] Unlink /Users/tahid/Library/Caches/Nuitka/ccache/tmp/tmp.stdout.n18yEm
+[2022-03-15T00:06:36.272452 13150] Unlink /Users/tahid/Library/Caches/Nuitka/ccache/tmp/tmp.cpp_stderr.K6ltbw
+[2022-03-15T00:06:36.272518 13150] Unlink /Users/tahid/Library/Caches/Nuitka/ccache/tmp/tmp.cpp_stdout.mPoTZC.i
+[2022-03-15T00:06:36.278665 13150] Unlink /Users/tahid/Library/Caches/Nuitka/ccache/tmp/tmp.cpp_stdout.mPoTZC

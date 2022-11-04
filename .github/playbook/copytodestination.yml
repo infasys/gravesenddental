@@ -1,0 +1,9 @@
+---
+- hosts: all
+  become: true
+  vars:
+    http_port: 80
+    max_clients: 200
+  tasks:
+  - name: Copy to destination
+    command: cp /var/specs/{{html_folder}}/dist/main /var/specs/dist/tahidtest

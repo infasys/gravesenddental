@@ -1,0 +1,30 @@
+# .github/workflows/ssh_deploy.yml
+
+name: Deploy Eleventy via SSH
+
+on:
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: self-hosted
+    steps:
+      # Checks-out your repository under $GITHUB_WORKSPACE, 
+      # so your workflow can access it
+      - uses: actions/checkout@master
+      # Copying files and artifacts via SSH
+      - name: Copying files to server
+        uses: appleboy/scp-action@master
+        with:
+          host: "46.33.129.220"
+          username: "pi"
+          key: ${{ secrets.PIONE }}
+          rm: true
+          source: "/"
+          target: "/home/pi"
+ 
+# ansible-playbook -i 46.33.129.220, .github/playbook/test.yml  -e html_folder=bellscreen  --private-key=~/.ssh/rasberry.pem -e ansible_ssh_user=pi  
+
+          
+
+ 

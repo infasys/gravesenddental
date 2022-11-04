@@ -1,0 +1,34 @@
+---
+- hosts: all
+  become: true
+  vars:
+    http_port: 80
+    max_clients: 200
+  tasks:
+  - name: synchronize Directory
+    ansible.posix.synchronize:
+      src: ../../../
+      dest: /var/specs/{{html_folder}}
+      recursive: yes
+      rsync_opts:
+        - "--no-motd"
+        - "--exclude=.git"
+        - "--exclude=.github"
+        - "--exclude=readme.md"
+        - "--exclude=README.md"
+        - "--exclude=.gitignore"
+        - "--exclude=sound"
+        - "--exclude=_project"
+        - "--exclude=dist"
+        - "--exclude=build"
+        - "--exclude=.idea"
+        - "--exclude=__pycache__"
+        - "--exclude=OLD"
+        - "--exclude=phones.json"
+  - name: Run a script using an executable in a system path
+    command: python3 -m PyInstaller --onefile --windowed /var/specs/{{html_folder}}/main.py
+    args:
+      chdir: /var/specs/{{html_folder}}/
+  - name: Run a script using an executable in a system path
+    command: cp /var/specs/{{html_folder}}/dist/main /var/specs/dist/tahidtest
+
